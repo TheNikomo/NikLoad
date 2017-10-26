@@ -37,7 +37,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -49,366 +49,130 @@ Comment4 ""
 $EndDescr
 $Comp
 L Q_NMOS_GDSD Q?
-U 1 1 59D95739
-P 3850 3250
-F 0 "Q?" H 3600 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 4150 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 4050 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 3850 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 3850 3250 60  0001 C CNN "Digikey"
-	1    3850 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Q_NMOS_GDSD Q?
 U 1 1 59D95741
-P 4500 3250
-F 0 "Q?" H 4250 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 4800 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 4700 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 4500 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 4500 3250 60  0001 C CNN "Digikey"
-	1    4500 3250
+P 3350 2350
+F 0 "Q?" H 3100 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 3650 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 3550 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 3350 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 3350 2350 60  0001 C CNN "Digikey"
+	1    3350 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95749
-P 5150 3250
-F 0 "Q?" H 4900 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 5450 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 5350 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 5150 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 5150 3250 60  0001 C CNN "Digikey"
-	1    5150 3250
+P 4000 2350
+F 0 "Q?" H 3750 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 4300 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 4200 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 4000 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 4000 2350 60  0001 C CNN "Digikey"
+	1    4000 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95751
-P 5800 3250
-F 0 "Q?" H 5550 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 6100 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 6000 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 5800 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 5800 3250 60  0001 C CNN "Digikey"
-	1    5800 3250
+P 4650 2350
+F 0 "Q?" H 4400 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 4950 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 4850 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 4650 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 4650 2350 60  0001 C CNN "Digikey"
+	1    4650 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95759
-P 6500 3250
-F 0 "Q?" H 6250 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 6800 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 6700 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 6500 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 6500 3250 60  0001 C CNN "Digikey"
-	1    6500 3250
+P 5350 2350
+F 0 "Q?" H 5100 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 5650 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 5550 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 5350 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 5350 2350 60  0001 C CNN "Digikey"
+	1    5350 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95761
-P 7150 3250
-F 0 "Q?" H 6900 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 7450 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 7350 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 7150 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 7150 3250 60  0001 C CNN "Digikey"
-	1    7150 3250
+P 6000 2350
+F 0 "Q?" H 5750 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 6300 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 6200 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 6000 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 6000 2350 60  0001 C CNN "Digikey"
+	1    6000 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95769
-P 7800 3250
-F 0 "Q?" H 7550 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 8100 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 8000 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 7800 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 7800 3250 60  0001 C CNN "Digikey"
-	1    7800 3250
+P 6650 2350
+F 0 "Q?" H 6400 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 6950 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 6850 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 6650 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 6650 2350 60  0001 C CNN "Digikey"
+	1    6650 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Q_NMOS_GDSD Q?
 U 1 1 59D95771
-P 8450 3250
-F 0 "Q?" H 8200 3350 50  0000 L CNN
-F 1 "IRFZ24NPbF" V 8750 3000 50  0000 L CNN
-F 2 "TO-220_plated_mount:TO-220_Horizontal" H 8650 3350 50  0001 C CNN
-F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 8450 3250 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 8450 3250 60  0001 C CNN "Digikey"
-	1    8450 3250
+P 7300 2350
+F 0 "Q?" H 7050 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 7600 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 7500 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 7300 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 7300 2350 60  0001 C CNN "Digikey"
+	1    7300 2350
 	1    0    0    -1  
 $EndComp
-Text GLabel 3900 3050 0    60   Input ~ 0
-DUT+
 Wire Wire Line
-	3950 3500 8550 3500
+	2750 2600 10000 2600
 Wire Wire Line
-	6600 3500 6600 3450
+	5450 2600 5450 2550
 Wire Wire Line
-	5900 3500 5900 3450
+	4750 2600 4750 2550
 Wire Wire Line
-	5250 3500 5250 3450
-Connection ~ 5900 3500
+	4100 2600 4100 2550
+Connection ~ 4750 2600
 Wire Wire Line
-	4600 3500 4600 3450
-Connection ~ 5250 3500
+	3450 2600 3450 2550
+Connection ~ 4100 2600
+Connection ~ 3450 2600
 Wire Wire Line
-	3950 3450 3950 4050
-Connection ~ 4600 3500
+	6100 2600 6100 2550
+Connection ~ 5450 2600
 Wire Wire Line
-	7250 3500 7250 3450
-Connection ~ 6600 3500
+	6750 2600 6750 2550
+Connection ~ 6100 2600
 Wire Wire Line
-	7900 3500 7900 3450
-Connection ~ 7250 3500
+	7400 2600 7400 2550
+Connection ~ 6750 2600
+Connection ~ 2800 2600
 Wire Wire Line
-	8550 3500 8550 3450
-Connection ~ 7900 3500
-$Comp
-L R R?
-U 1 1 59D9578C
-P 3950 4200
-F 0 "R?" V 4030 4200 50  0000 C CNN
-F 1 "2mOhm" V 3850 4200 50  0000 C CNN
-F 2 "" V 3880 4200 50  0001 C CNN
-F 3 "" H 3950 4200 50  0001 C CNN
-F 4 "CSS2H-3920K-2L00FCT-ND" V 3950 4200 60  0001 C CNN "Digikey"
-	1    3950 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L OPA388 U?
-U 1 1 59DC5A3B
-P 5100 4200
-F 0 "U?" H 5100 4400 50  0000 L CNN
-F 1 "OPA388" H 5100 4000 50  0000 L CNN
-F 2 "" H 5100 4200 50  0001 L CNN
-F 3 "" H 5100 4200 50  0001 C CNN
-	1    5100 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R?
-U 1 1 59DC5E1E
-P 4950 4750
-F 0 "R?" V 5030 4750 50  0000 C CNN
-F 1 "20k" V 4950 4750 43  0000 C CNN
-F 2 "" V 4880 4750 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 4950 4750 50  0001 C CNN
-F 4 "RNCF1206TKY20K0CT-ND" V 4950 4750 60  0001 C CNN "Digikey"
-	1    4950 4750
-	0    1    1    0   
-$EndComp
-$Comp
-L R R?
-U 1 1 59DC6075
-P 4600 4300
-F 0 "R?" V 4680 4300 50  0000 C CNN
-F 1 "1k" V 4600 4300 50  0000 C CNN
-F 2 "" V 4530 4300 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 4600 4300 50  0001 C CNN
-F 4 "RNCF1206TKY1K00CT-ND" V 4600 4300 60  0001 C CNN "Digikey"
-	1    4600 4300
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	4800 4300 4750 4300
-$Comp
-L R R?
-U 1 1 59DC61E9
-P 4600 4100
-F 0 "R?" V 4680 4100 50  0000 C CNN
-F 1 "1k" V 4600 4100 50  0000 C CNN
-F 2 "" V 4530 4100 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 4600 4100 50  0001 C CNN
-F 4 "RNCF1206TKY1K00CT-ND" V 4600 4100 60  0001 C CNN "Digikey"
-	1    4600 4100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4800 4100 4750 4100
-Wire Wire Line
-	4800 4100 4800 3950
-Connection ~ 3950 3500
-Wire Wire Line
-	3900 3050 8650 3050
-Connection ~ 8000 3050
-Connection ~ 8550 3050
-Connection ~ 7900 3050
-Connection ~ 7350 3050
-Connection ~ 6700 3050
-Connection ~ 7250 3050
-Connection ~ 6000 3050
-Connection ~ 6600 3050
-Connection ~ 5350 3050
-Connection ~ 5900 3050
-Connection ~ 4700 3050
-Connection ~ 5250 3050
-Connection ~ 4050 3050
-Connection ~ 4600 3050
-Connection ~ 3950 3050
-Text GLabel 3900 4500 0    60   Input ~ 0
-DUT-
-Wire Wire Line
-	3900 4500 3950 4500
-Wire Wire Line
-	3950 4500 3950 4350
-Text Notes 4000 3800 0    47   ~ 0
-100mV offset\n40 gain\n0.1V-4.1V output
-Wire Wire Line
-	4450 4100 4450 4050
-Wire Wire Line
-	4450 4050 3950 4050
-Wire Wire Line
-	4450 4300 4450 4350
-Wire Wire Line
-	4450 4350 3950 4350
-Wire Wire Line
-	4800 4750 4800 4300
-$Comp
-L R R?
-U 1 1 59E65D96
-P 4800 3800
-F 0 "R?" V 4880 3800 50  0000 C CNN
-F 1 "20k" V 4800 3800 43  0000 C CNN
-F 2 "" V 4730 3800 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 4800 3800 50  0001 C CNN
-F 4 "RNCF1206TKY20K0CT-ND" V 4800 3800 60  0001 C CNN "Digikey"
-	1    4800 3800
-	-1   0    0    1   
-$EndComp
-$Comp
-L R R?
-U 1 1 59E6604C
-P 5000 3650
-F 0 "R?" V 5080 3650 50  0000 C CNN
-F 1 "20k" V 5000 3650 43  0000 C CNN
-F 2 "" V 4930 3650 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 5000 3650 50  0001 C CNN
-F 4 "RNCF1206TKY20K0CT-ND" V 5000 3650 60  0001 C CNN "Digikey"
-	1    5000 3650
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4800 3650 4850 3650
-$Comp
-L R R?
-U 1 1 59E66613
-P 5300 4750
-F 0 "R?" V 5380 4750 50  0000 C CNN
-F 1 "20k" V 5300 4750 43  0000 C CNN
-F 2 "" V 5230 4750 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RNCF.pdf" H 5300 4750 50  0001 C CNN
-F 4 "RNCF1206TKY20K0CT-ND" V 5300 4750 60  0001 C CNN "Digikey"
-	1    5300 4750
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5150 4750 5100 4750
-Wire Wire Line
-	5450 4100 5450 4750
-Wire Wire Line
-	5450 4200 5400 4200
-Text HLabel 900  7000 0    60   Input ~ 0
-+5VA
-Wire Wire Line
-	5500 4100 5450 4100
-Connection ~ 5450 4200
-Text HLabel 5500 4100 2    60   Input ~ 0
-CurSense_ADC
-$Comp
-L OPA388 U?
-U 1 1 59E91D75
-P 6700 4100
-F 0 "U?" H 6700 4300 50  0000 L CNN
-F 1 "OPA388" H 6700 3900 50  0000 L CNN
-F 2 "" H 6700 4100 50  0001 L CNN
-F 3 "" H 6700 4100 50  0001 C CNN
-	1    6700 4100
-	-1   0    0    -1  
-$EndComp
-Wire Wire Line
-	6400 4100 6300 4100
-Wire Wire Line
-	6300 3650 6300 4650
-Wire Wire Line
-	6300 3650 5150 3650
-Wire Wire Line
-	6300 4650 7050 4650
-Wire Wire Line
-	7050 4650 7050 4200
-Wire Wire Line
-	7050 4200 7000 4200
-Connection ~ 6300 4100
-Wire Wire Line
-	6250 3950 6300 3950
-Connection ~ 6300 3950
-Text HLabel 6250 3950 0    60   Input ~ 0
-Offset_ADC
-Text HLabel 7000 4000 2    60   Input ~ 0
-Offset_DAC
-$Comp
-L +5VA #PWR?
-U 1 1 59E9311F
-P 5000 3900
-F 0 "#PWR?" H 5000 3750 50  0001 C CNN
-F 1 "+5VA" H 5000 4040 50  0000 C CNN
-F 2 "" H 5000 3900 50  0001 C CNN
-F 3 "" H 5000 3900 50  0001 C CNN
-	1    5000 3900
-	1    0    0    -1  
-$EndComp
-$Comp
-L +5VA #PWR?
-U 1 1 59E93320
-P 950 7000
-F 0 "#PWR?" H 950 6850 50  0001 C CNN
-F 1 "+5VA" H 950 7140 50  0000 C CNN
-F 2 "" H 950 7000 50  0001 C CNN
-F 3 "" H 950 7000 50  0001 C CNN
-	1    950  7000
-	1    0    0    -1  
-$EndComp
+	2750 2150 10100 2150
+Connection ~ 6850 2150
+Connection ~ 7400 2150
+Connection ~ 6750 2150
+Connection ~ 6200 2150
+Connection ~ 5550 2150
+Connection ~ 6100 2150
+Connection ~ 4850 2150
+Connection ~ 5450 2150
+Connection ~ 4200 2150
+Connection ~ 4750 2150
+Connection ~ 3550 2150
+Connection ~ 4100 2150
+Connection ~ 2900 2150
+Connection ~ 3450 2150
+Connection ~ 2800 2150
 Wire Wire Line
 	950  7000 900  7000
-$Comp
-L +5VA #PWR?
-U 1 1 59E936BF
-P 6800 3800
-F 0 "#PWR?" H 6800 3650 50  0001 C CNN
-F 1 "+5VA" H 6800 3940 50  0000 C CNN
-F 2 "" H 6800 3800 50  0001 C CNN
-F 3 "" H 6800 3800 50  0001 C CNN
-	1    6800 3800
-	1    0    0    -1  
-$EndComp
-$Comp
-L GNDA #PWR?
-U 1 1 59E93A63
-P 5000 4500
-F 0 "#PWR?" H 5000 4250 50  0001 C CNN
-F 1 "GNDA" H 5000 4350 50  0000 C CNN
-F 2 "" H 5000 4500 50  0001 C CNN
-F 3 "" H 5000 4500 50  0001 C CNN
-	1    5000 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L GNDA #PWR?
-U 1 1 59E93B31
-P 6800 4400
-F 0 "#PWR?" H 6800 4150 50  0001 C CNN
-F 1 "GNDA" H 6800 4250 50  0000 C CNN
-F 2 "" H 6800 4400 50  0001 C CNN
-F 3 "" H 6800 4400 50  0001 C CNN
-	1    6800 4400
-	1    0    0    -1  
-$EndComp
 $Comp
 L GNDA #PWR?
 U 1 1 59E93D0F
@@ -424,4 +188,235 @@ Text HLabel 900  7100 0    60   Input ~ 0
 GNDA
 Wire Wire Line
 	950  7100 900  7100
+$Comp
+L R R?
+U 1 1 59EB96A8
+P 3300 1700
+F 0 "R?" V 3250 1550 50  0000 C CNN
+F 1 "R" V 3300 1700 50  0000 C CNN
+F 2 "" V 3230 1700 50  0001 C CNN
+F 3 "" H 3300 1700 50  0001 C CNN
+	1    3300 1700
+	0    1    1    0   
+$EndComp
+$Comp
+L Q_NMOS_GDSD Q?
+U 1 1 59EB9CAE
+P 7950 2350
+F 0 "Q?" H 7700 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 8250 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 8150 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 7950 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 7950 2350 60  0001 C CNN "Digikey"
+	1    7950 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDSD Q?
+U 1 1 59EB9CFD
+P 9900 2350
+F 0 "Q?" H 9650 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 10200 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 10100 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 9900 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 9900 2350 60  0001 C CNN "Digikey"
+	1    9900 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDSD Q?
+U 1 1 59EB9D51
+P 8600 2350
+F 0 "Q?" H 8350 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 8900 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 8800 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 8600 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 8600 2350 60  0001 C CNN "Digikey"
+	1    8600 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Q_NMOS_GDSD Q?
+U 1 1 59EB9DAC
+P 9250 2350
+F 0 "Q?" H 9000 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 9550 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 9450 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 9250 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 9250 2350 60  0001 C CNN "Digikey"
+	1    9250 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBAB96
+P 3300 1600
+F 0 "R?" V 3250 1450 50  0000 C CNN
+F 1 "R" V 3300 1600 50  0000 C CNN
+F 2 "" V 3230 1600 50  0001 C CNN
+F 3 "" H 3300 1600 50  0001 C CNN
+	1    3300 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBABEF
+P 3300 1500
+F 0 "R?" V 3250 1350 50  0000 C CNN
+F 1 "R" V 3300 1500 50  0000 C CNN
+F 2 "" V 3230 1500 50  0001 C CNN
+F 3 "" H 3300 1500 50  0001 C CNN
+	1    3300 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBAC47
+P 3300 1400
+F 0 "R?" V 3250 1250 50  0000 C CNN
+F 1 "R" V 3300 1400 50  0000 C CNN
+F 2 "" V 3230 1400 50  0001 C CNN
+F 3 "" H 3300 1400 50  0001 C CNN
+	1    3300 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBAEAF
+P 3300 1300
+F 0 "R?" V 3250 1150 50  0000 C CNN
+F 1 "R" V 3300 1300 50  0000 C CNN
+F 2 "" V 3230 1300 50  0001 C CNN
+F 3 "" H 3300 1300 50  0001 C CNN
+	1    3300 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBAF27
+P 3300 1200
+F 0 "R?" V 3250 1050 50  0000 C CNN
+F 1 "R" V 3300 1200 50  0000 C CNN
+F 2 "" V 3230 1200 50  0001 C CNN
+F 3 "" H 3300 1200 50  0001 C CNN
+	1    3300 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB172
+P 3300 1100
+F 0 "R?" V 3250 950 50  0000 C CNN
+F 1 "R" V 3300 1100 50  0000 C CNN
+F 2 "" V 3230 1100 50  0001 C CNN
+F 3 "" H 3300 1100 50  0001 C CNN
+	1    3300 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB1D6
+P 3300 1000
+F 0 "R?" V 3250 850 50  0000 C CNN
+F 1 "R" V 3300 1000 50  0000 C CNN
+F 2 "" V 3230 1000 50  0001 C CNN
+F 3 "" H 3300 1000 50  0001 C CNN
+	1    3300 1000
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB23D
+P 3300 900
+F 0 "R?" V 3250 750 50  0000 C CNN
+F 1 "R" V 3300 900 50  0000 C CNN
+F 2 "" V 3230 900 50  0001 C CNN
+F 3 "" H 3300 900 50  0001 C CNN
+	1    3300 900 
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB2A7
+P 3300 800
+F 0 "R?" V 3250 650 50  0000 C CNN
+F 1 "R" V 3300 800 50  0000 C CNN
+F 2 "" V 3230 800 50  0001 C CNN
+F 3 "" H 3300 800 50  0001 C CNN
+	1    3300 800 
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB314
+P 3300 700
+F 0 "R?" V 3250 550 50  0000 C CNN
+F 1 "R" V 3300 700 50  0000 C CNN
+F 2 "" V 3230 700 50  0001 C CNN
+F 3 "" H 3300 700 50  0001 C CNN
+	1    3300 700 
+	0    1    1    0   
+$EndComp
+$Comp
+L R R?
+U 1 1 59EBB388
+P 3300 600
+F 0 "R?" V 3250 450 50  0000 C CNN
+F 1 "R" V 3300 600 50  0000 C CNN
+F 2 "" V 3230 600 50  0001 C CNN
+F 3 "" H 3300 600 50  0001 C CNN
+	1    3300 600 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8050 2600 8050 2550
+Connection ~ 7400 2600
+Wire Wire Line
+	8700 2600 8700 2550
+Connection ~ 8050 2600
+Wire Wire Line
+	9350 2600 9350 2550
+Connection ~ 8700 2600
+Wire Wire Line
+	10000 2600 10000 2550
+Connection ~ 9350 2600
+Connection ~ 7500 2150
+Connection ~ 8050 2150
+Connection ~ 8150 2150
+Connection ~ 8700 2150
+Connection ~ 8800 2150
+Connection ~ 9350 2150
+Connection ~ 9450 2150
+Connection ~ 10000 2150
+Text HLabel 2750 2600 0    60   Input ~ 0
+SenseResistor
+Wire Wire Line
+	2800 2550 2800 2600
+$Comp
+L Q_NMOS_GDSD Q?
+U 1 1 59D95739
+P 2700 2350
+F 0 "Q?" H 2450 2450 50  0000 L CNN
+F 1 "IRFZ24NPbF" V 3000 2100 50  0000 L CNN
+F 2 "TO-220_plated_mount:TO-220_Horizontal" H 2900 2450 50  0001 C CNN
+F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 2700 2350 50  0001 C CNN
+F 4 "IRFZ24NPBF-ND" H 2700 2350 60  0001 C CNN "Digikey"
+	1    2700 2350
+	1    0    0    -1  
+$EndComp
+Text HLabel 2750 2150 0    60   Input ~ 0
+DUT+
+$Comp
+L +5VA #PWR?
+U 1 1 59E93320
+P 950 7000
+F 0 "#PWR?" H 950 6850 50  0001 C CNN
+F 1 "+5VA" H 950 7140 50  0000 C CNN
+F 2 "" H 950 7000 50  0001 C CNN
+F 3 "" H 950 7000 50  0001 C CNN
+	1    950  7000
+	1    0    0    -1  
+$EndComp
+Text HLabel 900  7000 0    60   Input ~ 0
++5VA
 $EndSCHEMATC
