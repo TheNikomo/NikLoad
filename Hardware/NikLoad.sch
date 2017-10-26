@@ -37,7 +37,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -48,13 +48,44 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 7750 4000 1400 1250
+S 9350 3200 1400 1250
 U 59D94BD5
 F0 "Load" 60
 F1 "Load.sch" 60
-F2 "+5VA" I L 7750 4100 60 
-F3 "CurSense_ADC" I L 7750 4400 60 
-F4 "Offset_ADC" I L 7750 4500 60 
-F5 "Offset_DAC" I L 7750 4600 60 
+F2 "+5VA" I L 9350 3300 60 
+F3 "GNDA" I L 9350 4350 60 
+F4 "DUT+" I L 9350 3950 60 
+F6 "SenseResistor" I L 9350 4050 60 
 $EndSheet
+$Sheet
+S 6400 3200 2050 1250
+U 59EBD10C
+F0 "Measurement" 60
+F1 "Measure.sch" 60
+F2 "GNDA" I R 8450 4350 60 
+F3 "DUT-" I R 8450 4150 60 
+F4 "SenseResistor" I R 8450 4050 60 
+F5 "DUT+" I R 8450 3950 60 
+F6 "+5VA" I R 8450 3300 60 
+$EndSheet
+$Comp
+L GNDA #PWR?
+U 1 1 59EBE55A
+P 8900 4350
+F 0 "#PWR?" H 8900 4100 50  0001 C CNN
+F 1 "GNDA" H 8900 4200 50  0000 C CNN
+F 2 "" H 8900 4350 50  0001 C CNN
+F 3 "" H 8900 4350 50  0001 C CNN
+	1    8900 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 4050 9350 4050
+Connection ~ 8900 4350
+Wire Wire Line
+	8450 4350 9350 4350
+Wire Wire Line
+	8450 3300 9350 3300
+Wire Wire Line
+	8450 3950 9350 3950
 $EndSCHEMATC
