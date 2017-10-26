@@ -43,3 +43,10 @@
 
 # Misc
 - The connector used for 12V ATX fans is Molex 47053-1000
+
+# Software control
+- CP and CR are hard, probably just implement them in software
+- Need voltage sense for display + math purposes
+- Looking at new ADCs, but regardless of the ADC, it will be 0-5V
+- 50V -> 5V means 1mV = 100µV - thermal noise from a 50kOhm divider (1mA@50V) is sub-15µV at relevant temperatures and bandwidths
+- Shouldn't be too hard
