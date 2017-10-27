@@ -32,20 +32,19 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:NikLoad-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title ""
-Date ""
-Rev ""
+Date "2017-10-27"
+Rev "1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "isolation, and are isolated on this board."
+Comment2 "and 2 isolated SPI busses. Power and signals arrive without"
+Comment3 "This board is isolated from the digital board, with isolated power"
+Comment4 "Analog PCB Schematic"
 $EndDescr
 $Sheet
 S 9350 3200 1400 1250
@@ -55,7 +54,7 @@ F1 "Load.sch" 60
 F2 "+5VA" I L 9350 3300 60 
 F3 "GNDA" I L 9350 4350 60 
 F4 "DUT+" I L 9350 3950 60 
-F6 "SenseResistor" I L 9350 4050 60 
+F5 "SenseResistor" I L 9350 4050 60 
 $EndSheet
 $Sheet
 S 6400 3200 2050 1250

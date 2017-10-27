@@ -32,20 +32,19 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:NikLoad-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
 Title ""
-Date ""
-Rev ""
+Date "2017-10-27"
+Rev "1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "(Optionally, better waterblocks to get more wattage)"
+Comment2 "two waterblocks, enabling usage of lesser-quality waterblocks"
+Comment3 "Two arrays of MOSFETs are used to spread heat between"
+Comment4 "6x2 arrays of MOSFETs make up the load"
 $EndDescr
 $Comp
 L Q_NMOS_GDSD Q?
