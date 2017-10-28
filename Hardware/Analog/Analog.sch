@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Analog-rescue
 LIBS:NikLoad
 LIBS:power
 LIBS:device
@@ -32,6 +33,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:Analog-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -84,7 +86,30 @@ Connection ~ 8900 4350
 Wire Wire Line
 	8450 4350 9350 4350
 Wire Wire Line
-	8450 3300 9350 3300
-Wire Wire Line
 	8450 3950 9350 3950
+Wire Wire Line
+	8450 4150 8950 4150
+Wire Wire Line
+	8950 4150 8950 2650
+Wire Wire Line
+	8950 2650 9800 2650
+Wire Wire Line
+	8850 3950 8850 2400
+Connection ~ 8850 3950
+Wire Wire Line
+	8850 2400 9800 2400
+$Comp
+L +5VA #PWR?
+U 1 1 59F36692
+P 9200 3300
+F 0 "#PWR?" H 9200 3150 50  0001 C CNN
+F 1 "+5VA" H 9200 3440 50  0000 C CNN
+F 2 "" H 9200 3300 50  0001 C CNN
+F 3 "" H 9200 3300 50  0001 C CNN
+	1    9200 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 3300 9350 3300
+Connection ~ 9200 3300
 $EndSCHEMATC
