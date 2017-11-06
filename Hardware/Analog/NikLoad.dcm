@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS127L01
+D 24-Bit, High-Speed, Wide-Bandwidth Analog-to-Digital Converter
+K 24-bit, adc, spi
+F http://www.ti.com/lit/ds/symlink/ads127l01.pdf
+$ENDCMP
+#
+$CMP DAC8560IADGKT
+D 16-Bit, Ultra-Low Glitch, Voltage Output Digital-to-Analog Converter with 2.5V, 2ppm/°C Internal Reference
+K 16-bit, DAC, internal reference, voltage output
+F http://www.ti.com/lit/ds/symlink/dac8560.pdf
+$ENDCMP
+#
+$CMP MAX6126
+D Ultra-High-Precision, Ultra-Low-Noise, Series Voltage Reference
+K voltage reference
+F http://datasheets.maximintegrated.com/en/ds/MAX6126.pdf
+$ENDCMP
+#
+$CMP OPA180IDBVR
+D 0.1-μV/°C Drift, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifiers
+K op amp, 2MHz, RRO, zero-drift
+F http://www.ti.com/lit/ds/symlink/opa180.pdf
+$ENDCMP
+#
+$CMP OPA388
+D Precision, Zero-Drift, Zero-Crossover, True Rail-to-Rail Input/Output, Operational Amplifier
+K op amp, 10MHz, rail to rail, zero-drift, zero-crossover
+F http://www.ti.com/lit/ds/symlink/opa388.pdf
+$ENDCMP
+#
+$CMP TXETCLSANF
+D 2.8 V ~ 3.3 V Clipped Sine Wave Oscillator
+K oscillator, clipped sine wave
+F http://www.taitien.com/wp-content/uploads/2015/12/XO-0076_TX.pdf
+$ENDCMP
+#
+#End Doc Library
