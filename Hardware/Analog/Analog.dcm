@@ -1,11 +1,4 @@
 EESchema-DOCLIB  Version 2.0
-#
-$CMP ADS1220IPWR
-D 4-Channel, 2-kSPS, Low-Power, 24-Bit ADC with Integrated PGA and Reference
-K ADC, 24-bit, low-power, 2-kSPS, integrated PGA, temperature sensor
-F http://www.ti.com/lit/ds/symlink/ads1220.pdf
-$ENDCMP
-#
 $CMP DAC8560IADGKT
 D 16-Bit, Ultra-Low Glitch, Voltage Output Digital-to-Analog Converter
 K 16-bit, DAC, voltage output
