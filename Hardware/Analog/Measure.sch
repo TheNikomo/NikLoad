@@ -37,7 +37,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date "2017-10-27"
 Rev "1"
@@ -533,6 +533,7 @@ F 0 "U?" H 1400 7200 60  0000 C CNN
 F 1 "DAC8560IADGKT" H 1700 7100 60  0000 C CNN
 F 2 "" H 1700 7150 60  0001 C CNN
 F 3 "" H 1700 7150 60  0001 C CNN
+F 4 "296-21385-1-ND" H 1700 6700 60  0001 C CNN "Digikey"
 	1    1700 6700
 	1    0    0    -1  
 $EndComp
