@@ -12,6 +12,12 @@ K 16-bit, DAC, internal reference, voltage output
 F http://www.ti.com/lit/ds/symlink/dac8560.pdf
 $ENDCMP
 #
+$CMP LM5160ADNTR
+D Wide Input 65-V, 2-A Synchronous Buck / Fly-Buck™ Converter
+K buck, flyback, converter, synchronous, isolation capable
+F http://www.ti.com/lit/ds/symlink/lm5160a.pdf
+$ENDCMP
+#
 $CMP MAX6126
 D Ultra-High-Precision, Ultra-Low-Noise, Series Voltage Reference
 K voltage reference
@@ -28,6 +34,12 @@ $CMP OPA388
 D Precision, Zero-Drift, Zero-Crossover, True Rail-to-Rail Input/Output, Operational Amplifier
 K op amp, 10MHz, rail to rail, zero-drift, zero-crossover
 F http://www.ti.com/lit/ds/symlink/opa388.pdf
+$ENDCMP
+#
+$CMP SRF1280
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F http://www.bourns.com/docs/Product-Datasheets/SRF1280.pdf
 $ENDCMP
 #
 $CMP TXETCLSANF
