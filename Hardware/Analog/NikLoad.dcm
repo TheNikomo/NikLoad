@@ -36,6 +36,12 @@ K op amp, 10MHz, rail to rail, zero-drift, zero-crossover
 F http://www.ti.com/lit/ds/symlink/opa388.pdf
 $ENDCMP
 #
+$CMP SPX1117-33
+D 1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223
+K linear regulator ldo fixed positive obsolete
+F https://www.exar.com/ds/spx1117_ds_r210_082411.pdf
+$ENDCMP
+#
 $CMP SRF1280
 D Transformer, single primary, single secondary
 K transformer coil magnet
