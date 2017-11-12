@@ -1415,6 +1415,4 @@ F 3 "" H 1050 3150 50  0001 C CNN
 	1    1050 3150
 	1    0    0    -1  
 $EndComp
-Text HLabel 5500 5150 0    60   Input ~ 0
-SPI1_CE2
 $EndSCHEMATC
