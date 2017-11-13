@@ -6,6 +6,12 @@ K 24-bit, adc, spi
 F http://www.ti.com/lit/ds/symlink/ads127l01.pdf
 $ENDCMP
 #
+$CMP ADuM3151
+D 3.75 kV, 7-Channel, SPIsolator Digital Isolators for SPI
+K spi isolator
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3151_3152_3153.pdf
+$ENDCMP
+#
 $CMP DAC8560IADGKT
 D 16-Bit, Ultra-Low Glitch, Voltage Output Digital-to-Analog Converter with 2.5V, 2ppm/°C Internal Reference
 K 16-bit, DAC, internal reference, voltage output
