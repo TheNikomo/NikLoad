@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 6N137
+D High Speed 10MBd Optocouplers
+K High Speed Optocoupler
+F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf
+$ENDCMP
+#
 $CMP ADS127L01
 D 24-Bit, High-Speed, Wide-Bandwidth Analog-to-Digital Converter
 K 24-bit, adc, spi
