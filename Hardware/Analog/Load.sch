@@ -55,7 +55,7 @@ F 0 "Q?" H 4700 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 5250 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 5150 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 4950 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 4950 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 4950 2350 60  0001 C CNN "digikey#"
 	1    4950 2350
 	1    0    0    -1  
 $EndComp
@@ -67,7 +67,7 @@ F 0 "Q?" H 5350 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 5900 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 5800 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 5600 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 5600 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 5600 2350 60  0001 C CNN "digikey#"
 	1    5600 2350
 	1    0    0    -1  
 $EndComp
@@ -79,7 +79,7 @@ F 0 "Q?" H 6050 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 6600 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 6500 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 6300 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 6300 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 6300 2350 60  0001 C CNN "digikey#"
 	1    6300 2350
 	1    0    0    -1  
 $EndComp
@@ -91,7 +91,7 @@ F 0 "Q?" H 6700 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 7250 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 7150 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 6950 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 6950 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 6950 2350 60  0001 C CNN "digikey#"
 	1    6950 2350
 	1    0    0    -1  
 $EndComp
@@ -103,7 +103,7 @@ F 0 "Q?" H 7350 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 7900 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 7800 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 7600 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 7600 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 7600 2350 60  0001 C CNN "digikey#"
 	1    7600 2350
 	1    0    0    -1  
 $EndComp
@@ -115,7 +115,7 @@ F 0 "Q?" H 8000 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 8550 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 8450 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 8250 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 8250 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 8250 2350 60  0001 C CNN "digikey#"
 	1    8250 2350
 	1    0    0    -1  
 $EndComp
@@ -140,7 +140,7 @@ F 0 "Q?" H 8650 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 9200 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 9100 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 8900 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 8900 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 8900 2350 60  0001 C CNN "digikey#"
 	1    8900 2350
 	1    0    0    -1  
 $EndComp
@@ -152,7 +152,7 @@ F 0 "Q?" H 10600 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 11150 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 11050 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 10850 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 10850 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 10850 2350 60  0001 C CNN "digikey#"
 	1    10850 2350
 	1    0    0    -1  
 $EndComp
@@ -164,7 +164,7 @@ F 0 "Q?" H 9300 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 9850 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 9750 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 9550 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 9550 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 9550 2350 60  0001 C CNN "digikey#"
 	1    9550 2350
 	1    0    0    -1  
 $EndComp
@@ -176,7 +176,7 @@ F 0 "Q?" H 9950 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 10500 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 10400 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 10200 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 10200 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 10200 2350 60  0001 C CNN "digikey#"
 	1    10200 2350
 	1    0    0    -1  
 $EndComp
@@ -229,7 +229,7 @@ F 0 "Q?" H 4050 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 4600 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 4500 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 4300 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 4300 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 4300 2350 60  0001 C CNN "digikey#"
 	1    4300 2350
 	1    0    0    -1  
 $EndComp
@@ -241,7 +241,7 @@ F 0 "Q?" H 3400 2450 50  0000 L CNN
 F 1 "IRFZ24NPbF" V 3950 2100 50  0000 L CNN
 F 2 "TO-220_plated_mount:TO-220_Horizontal" H 3850 2450 50  0001 C CNN
 F 3 "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7" H 3650 2350 50  0001 C CNN
-F 4 "IRFZ24NPBF-ND" H 3650 2350 60  0001 C CNN "Digikey"
+F 4 "IRFZ24NPBF-ND" H 3650 2350 60  0001 C CNN "digikey#"
 	1    3650 2350
 	1    0    0    -1  
 $EndComp

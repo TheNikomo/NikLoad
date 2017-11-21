@@ -6,6 +6,12 @@ K High Speed Optocoupler
 F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf
 $ENDCMP
 #
+$CMP 74HC595
+D 8-bit serial-in, serial or parallel-out shift register with output
+K shift register
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf
+$ENDCMP
+#
 $CMP ADS127L01
 D 24-Bit, High-Speed, Wide-Bandwidth Analog-to-Digital Converter
 K 24-bit, adc, spi
@@ -34,6 +40,12 @@ $CMP MAX6126
 D Ultra-High-Precision, Ultra-Low-Noise, Series Voltage Reference
 K voltage reference
 F http://datasheets.maximintegrated.com/en/ds/MAX6126.pdf
+$ENDCMP
+#
+$CMP NX3L4357
+D Low-ohmic single-pole triple-throw analog switch with enable
+K analog multiplexer, low-ohmic
+F https://www.nxp.com/docs/en/data-sheet/NX3L4357.pdf
 $ENDCMP
 #
 $CMP OPA180IDBVR
