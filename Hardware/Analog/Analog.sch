@@ -270,10 +270,6 @@ Text HLabel 4750 3900 2    60   Input ~ 0
 CurrentSense
 Text HLabel 4750 4100 2    60   Input ~ 0
 Setpoint
-Text Label 4750 3550 0    60   ~ 0
-DUT+
-Text Label 10500 1700 0    60   ~ 0
-DUT+
 $Sheet
 S 1450 3050 1750 1900
 U 5A0A4D80
@@ -915,11 +911,6 @@ F 6 "501-1316-ND" H 5100 3650 60  0001 C CNN "digikey#"
 	1    5100 3650
 	1    0    0    -1  
 $EndComp
-Connection ~ 4750 3650
-Wire Wire Line
-	4750 3650 4750 3550
-Wire Wire Line
-	4700 3650 4900 3650
 Wire Wire Line
 	3400 4750 3200 4750
 Wire Wire Line
@@ -995,8 +986,6 @@ Wire Wire Line
 	2300 1400 10100 1400
 Wire Notes Line
 	1000 2350 10800 2350
-Wire Wire Line
-	4700 3750 4900 3750
 Connection ~ 5400 7150
 Wire Notes Line
 	10450 6500 11150 6500
@@ -1007,7 +996,7 @@ Wire Notes Line
 Wire Notes Line
 	11150 5000 10450 5000
 Wire Notes Line
-	11150 5000 11150 6500
+	11150 6500 11150 5000
 Wire Wire Line
 	10650 5850 10800 5850
 Wire Wire Line
@@ -1053,9 +1042,9 @@ Wire Wire Line
 Wire Notes Line
 	1000 550  1000 2350
 Wire Notes Line
-	10800 550  10800 2350
+	10800 2350 10800 550 
 Wire Notes Line
-	1000 550  10800 550 
+	10800 550  1000 550 
 Wire Notes Line
 	2900 7700 6900 7700
 Wire Notes Line
@@ -1063,7 +1052,7 @@ Wire Notes Line
 Wire Notes Line
 	6900 6750 2900 6750
 Wire Notes Line
-	6900 6750 6900 7700
+	6900 7700 6900 6750
 Connection ~ 2050 800 
 Wire Wire Line
 	1900 800  2400 800 
@@ -1183,4 +1172,15 @@ Wire Wire Line
 	3950 7150 4700 7150
 Wire Wire Line
 	3150 7150 3350 7150
+Text Label 4750 3500 0    60   ~ 0
+DUT+
+Text Label 10500 1700 0    60   ~ 0
+DUT+
+Wire Wire Line
+	4750 3500 4750 3650
+Wire Wire Line
+	4700 3650 4900 3650
+Connection ~ 4750 3650
+Wire Wire Line
+	4700 3750 4900 3750
 $EndSCHEMATC
