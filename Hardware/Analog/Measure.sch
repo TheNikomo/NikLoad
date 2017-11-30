@@ -45,7 +45,7 @@ Comp "Author: Niko Montonen"
 Comment1 ""
 Comment2 "keep amplifiers in their linear operational range"
 Comment3 "Offset voltage DAC sets system offset to"
-Comment4 "Voltage and current readings"
+Comment4 "Measurements and control."
 $EndDescr
 $Comp
 L R R208
@@ -159,7 +159,7 @@ $Comp
 L MAX6126 U211
 U 1 1 59F3AA0A
 P 5050 7000
-F 0 "U211" H 4850 7400 60  0000 C CNN
+F 0 "U211" H 4900 7400 60  0000 C CNN
 F 1 "MAX6126AASA25+" H 5050 7300 60  0000 C CNN
 F 2 "" H 5050 7000 60  0001 C CNN
 F 3 "http://datasheets.maximintegrated.com/en/ds/MAX6126.pdf" H 5050 7000 60  0001 C CNN
@@ -173,8 +173,8 @@ $Comp
 L DAC8560IADGKT U210
 U 1 1 59F3CCFA
 P 1700 6700
-F 0 "U210" H 1400 7200 60  0000 C CNN
-F 1 "DAC8560" H 1700 7100 60  0000 C CNN
+F 0 "U210" H 1450 7100 60  0000 C CNN
+F 1 "DAC8560" H 1850 7100 60  0000 C CNN
 F 2 "" H 1700 7150 60  0001 C CNN
 F 3 "" H 1700 7150 60  0001 C CNN
 F 4 "Texas Instruments" H 1700 6700 60  0001 C CNN "Manufacturer"
@@ -246,7 +246,7 @@ Text HLabel 2850 3450 3    60   Input ~ 0
 OSR1
 Text HLabel 3000 3450 3    60   Input ~ 0
 OSR0
-Text HLabel 2200 3850 0    60   Input ~ 0
+Text HLabel 2200 3700 0    60   Input ~ 0
 ~DRDY~/FSYNC
 $Comp
 L +12V #PWR050
@@ -744,20 +744,6 @@ F 1 "GND" H 4500 2300 50  0000 C CNN
 F 2 "" H 4500 2450 50  0001 C CNN
 F 3 "" H 4500 2450 50  0001 C CNN
 	1    4500 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R224
-U 1 1 5A0EA226
-P 2250 3700
-F 0 "R224" V 2300 3900 50  0000 C CNN
-F 1 "33" V 2250 3700 50  0000 C CNN
-F 2 "" V 2180 3700 50  0001 C CNN
-F 3 "" H 2250 3700 50  0001 C CNN
-F 4 "Yageo" V 2250 3700 60  0001 C CNN "Manufacturer"
-F 5 "RC0603JR-0733RL" V 2250 3700 60  0001 C CNN "manf#"
-F 6 "311-33.0HRCT-ND" V 2250 3700 60  0001 C CNN "digikey#"
-	1    2250 3700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1667,9 +1653,7 @@ Wire Wire Line
 Wire Wire Line
 	1150 1750 1600 1750
 Wire Wire Line
-	2250 3550 2250 3450
-Wire Wire Line
-	2200 3850 2250 3850
+	2250 3450 2250 3700
 Wire Notes Line
 	550  550  550  4000
 Wire Notes Line
@@ -1855,4 +1839,6 @@ F 6 "BAT46WQ-7-FDICT-ND" H 6100 2000 60  0001 C CNN "digikey#"
 $EndComp
 Wire Wire Line
 	4550 2850 4050 2850
+Wire Wire Line
+	2250 3700 2200 3700
 $EndSCHEMATC
