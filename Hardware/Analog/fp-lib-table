@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name pc_cooler_mount)(type KiCad)(uri "$(KIPRJMOD)/pc_cooler_mount.pretty")(options "")(descr ""))
-  (lib (name TO-220_plated_mount)(type KiCad)(uri "$(KIPRJMOD)/TO-220_plated_mount.pretty")(options "")(descr ""))
+  (lib (name pc_cooler_mount)(type KiCad)(uri "$(KIPRJMOD)/footprints/pc_cooler_mount.pretty")(options "")(descr ""))
+  (lib (name TO-220_plated_mount)(type KiCad)(uri "$(KIPRJMOD)/footprints/TO-220_plated_mount.pretty")(options "")(descr ""))
 )

@@ -2,7 +2,7 @@
 
   (general
     (links 22)
-    (no_connects 7)
+    (no_connects 0)
     (area 84.8476 59.0726 186.1524 137.1524)
     (thickness 1.6)
     (drawings 0)
@@ -643,7 +643,7 @@
       )
     )
   )
-  (zone (net 10) (net_name CURRENT_SENSE+) (layer F.Mask) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 0) (hatch edge 0.508)
     (priority 10)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
@@ -660,7 +660,7 @@
       )
     )
   )
-  (zone (net 10) (net_name CURRENT_SENSE+) (layer F.Mask) (tstamp 59B1EB1D) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 59B1EB1D) (hatch edge 0.508)
     (priority 10)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
