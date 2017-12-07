@@ -2071,10 +2071,6 @@ Wire Wire Line
 Wire Wire Line
 	1750 7300 1750 7200
 Wire Wire Line
-	3800 7300 3800 7200
-Wire Wire Line
-	3650 7300 3800 7300
-Wire Wire Line
 	3800 7200 3650 7200
 Connection ~ 3000 7200
 Wire Wire Line
@@ -2528,4 +2524,6 @@ Wire Wire Line
 	2300 2050 2350 2050
 Wire Wire Line
 	1700 2050 1650 2050
+Wire Wire Line
+	3800 7300 3800 7200
 $EndSCHEMATC
