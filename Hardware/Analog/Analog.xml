@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/nikomo/projects/NikLoad/Hardware/Analog/Analog.sch</source>
-    <date>pe  1. joulukuuta 2017 11.30.12</date>
+    <date>to  7. joulukuuta 2017 13.16.31</date>
     <tool>Eeschema 4.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -59,6 +59,7 @@
     </comp>
     <comp ref="U101">
       <value>OPA180</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="manf#">OPA180IDBVR</field>
@@ -70,6 +71,7 @@
     </comp>
     <comp ref="R102">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -81,7 +83,7 @@
     </comp>
     <comp ref="Q101">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -106,6 +108,7 @@
     </comp>
     <comp ref="R114">
       <value>100k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100KL</field>
@@ -117,6 +120,7 @@
     </comp>
     <comp ref="R103">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -128,6 +132,7 @@
     </comp>
     <comp ref="R104">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -139,6 +144,7 @@
     </comp>
     <comp ref="R105">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -150,6 +156,7 @@
     </comp>
     <comp ref="R106">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -161,6 +168,7 @@
     </comp>
     <comp ref="R107">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -172,6 +180,7 @@
     </comp>
     <comp ref="R108">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -183,6 +192,7 @@
     </comp>
     <comp ref="R109">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -194,6 +204,7 @@
     </comp>
     <comp ref="R110">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -205,6 +216,7 @@
     </comp>
     <comp ref="R111">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -216,6 +228,7 @@
     </comp>
     <comp ref="R112">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -227,6 +240,7 @@
     </comp>
     <comp ref="R113">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -310,7 +324,7 @@
     </comp>
     <comp ref="Q102">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -323,7 +337,7 @@
     </comp>
     <comp ref="Q103">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -336,7 +350,7 @@
     </comp>
     <comp ref="Q104">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -349,7 +363,7 @@
     </comp>
     <comp ref="Q105">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -362,7 +376,7 @@
     </comp>
     <comp ref="Q106">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -375,7 +389,7 @@
     </comp>
     <comp ref="Q107">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -388,7 +402,7 @@
     </comp>
     <comp ref="Q108">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -401,7 +415,7 @@
     </comp>
     <comp ref="Q109">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -414,7 +428,7 @@
     </comp>
     <comp ref="Q110">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -427,7 +441,7 @@
     </comp>
     <comp ref="Q111">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -440,7 +454,7 @@
     </comp>
     <comp ref="Q112">
       <value>PHP23NQ11T</value>
-      <footprint>TO-220_plated_mount:TO-220_Horizontal</footprint>
+      <footprint>NikLoad:TO-220_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PHP23NQ11T.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
@@ -453,6 +467,7 @@
     </comp>
     <comp ref="J101">
       <value>Pomona 4mm 30A connector</value>
+      <footprint>Connectors:Banana_Jack_2Pin</footprint>
       <fields>
         <field name="Manufacturer">Pomona Electronics</field>
         <field name="manf#">6883</field>
@@ -462,8 +477,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A141716</tstamp>
     </comp>
-    <comp ref="R141">
+    <comp ref="R142">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -473,8 +489,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE85F</tstamp>
     </comp>
-    <comp ref="R134">
+    <comp ref="R135">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -484,8 +501,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE869</tstamp>
     </comp>
-    <comp ref="R133">
+    <comp ref="R134">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -495,8 +513,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE873</tstamp>
     </comp>
-    <comp ref="R132">
+    <comp ref="R133">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -506,8 +525,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE87D</tstamp>
     </comp>
-    <comp ref="R131">
+    <comp ref="R132">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -517,8 +537,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE887</tstamp>
     </comp>
-    <comp ref="R128">
+    <comp ref="R129">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -528,8 +549,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE891</tstamp>
     </comp>
-    <comp ref="R127">
+    <comp ref="R128">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -539,8 +561,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE89B</tstamp>
     </comp>
-    <comp ref="R130">
+    <comp ref="R131">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -550,8 +573,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8A5</tstamp>
     </comp>
-    <comp ref="R129">
+    <comp ref="R130">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -561,8 +585,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8AF</tstamp>
     </comp>
-    <comp ref="R142">
+    <comp ref="R143">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -572,8 +597,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8B9</tstamp>
     </comp>
-    <comp ref="R139">
+    <comp ref="R140">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -583,8 +609,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8C3</tstamp>
     </comp>
-    <comp ref="R140">
+    <comp ref="R141">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -594,8 +621,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8CD</tstamp>
     </comp>
-    <comp ref="R136">
+    <comp ref="R137">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -605,8 +633,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8D7</tstamp>
     </comp>
-    <comp ref="R135">
+    <comp ref="R136">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -616,8 +645,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8E1</tstamp>
     </comp>
-    <comp ref="R137">
+    <comp ref="R138">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -627,8 +657,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8EB</tstamp>
     </comp>
-    <comp ref="R138">
+    <comp ref="R139">
       <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0751K1L</field>
@@ -640,6 +671,7 @@
     </comp>
     <comp ref="U102">
       <value>74HC595</value>
+      <footprint>Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm</footprint>
       <fields>
         <field name="Manufacturer">STMicroelectronics</field>
         <field name="manf#">M74HC595YRM13TR</field>
@@ -649,7 +681,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE8FF</tstamp>
     </comp>
-    <comp ref="C106">
+    <comp ref="C104">
       <value>0.1µF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <fields>
@@ -663,6 +695,7 @@
     </comp>
     <comp ref="D101">
       <value>APG1608ZGCK</value>
+      <footprint>LEDs:LED_0603</footprint>
       <fields>
         <field name="Manufacturer">Kingbright</field>
         <field name="manf#">APG1608ZGCK</field>
@@ -674,6 +707,7 @@
     </comp>
     <comp ref="Q113">
       <value>2N7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="manf#">2N7002P\,235</field>
@@ -683,8 +717,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE932</tstamp>
     </comp>
-    <comp ref="R145">
+    <comp ref="R146">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -694,19 +729,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE942</tstamp>
     </comp>
-    <comp ref="J102">
-      <value>02x15 IDC</value>
-      <fields>
-        <field name="Manufacturer">On Shore Technology Inc.</field>
-        <field name="manf#">302-S301</field>
-        <field name="digikey#">ED10527-ND</field>
-      </fields>
-      <libsource lib="conn" part="Conn_02x15_Odd_Even"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A1CE949</tstamp>
-    </comp>
-    <comp ref="R143">
+    <comp ref="R144">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -716,8 +741,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE953</tstamp>
     </comp>
-    <comp ref="R144">
+    <comp ref="R145">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0733RL</field>
@@ -729,6 +755,7 @@
     </comp>
     <comp ref="D102">
       <value>APG1608ZGCK</value>
+      <footprint>LEDs:LED_0603</footprint>
       <fields>
         <field name="Manufacturer">Kingbright</field>
         <field name="manf#">APG1608ZGCK</field>
@@ -740,6 +767,7 @@
     </comp>
     <comp ref="Q114">
       <value>2N7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
       <fields>
         <field name="Manufacturer">Nexperia USA Inc.</field>
         <field name="manf#">2N7002P\,235</field>
@@ -749,8 +777,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE977</tstamp>
     </comp>
-    <comp ref="R146">
+    <comp ref="R147">
       <value>100</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-07100RL</field>
@@ -760,8 +789,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1CE987</tstamp>
     </comp>
-    <comp ref="C104">
+    <comp ref="C105">
       <value>150µF</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
       <fields>
         <field name="Manufacturer">Wurth Electronics Inc.</field>
         <field name="manf#">875105345011</field>
@@ -771,8 +801,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1DF1B8</tstamp>
     </comp>
-    <comp ref="R115">
+    <comp ref="R116">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -782,8 +813,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1EDF5A</tstamp>
     </comp>
-    <comp ref="R116">
+    <comp ref="R117">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -793,8 +825,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F1ECA</tstamp>
     </comp>
-    <comp ref="R117">
+    <comp ref="R118">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -804,8 +837,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F2043</tstamp>
     </comp>
-    <comp ref="R118">
+    <comp ref="R119">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -815,8 +849,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F2356</tstamp>
     </comp>
-    <comp ref="R119">
+    <comp ref="R120">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -826,8 +861,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F2775</tstamp>
     </comp>
-    <comp ref="R120">
+    <comp ref="R121">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -837,8 +873,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F28F7</tstamp>
     </comp>
-    <comp ref="R121">
+    <comp ref="R122">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -848,8 +885,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F2D28</tstamp>
     </comp>
-    <comp ref="R122">
+    <comp ref="R123">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -859,8 +897,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F2EAE</tstamp>
     </comp>
-    <comp ref="R123">
+    <comp ref="R124">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -870,8 +909,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F33D0</tstamp>
     </comp>
-    <comp ref="R124">
+    <comp ref="R125">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -881,8 +921,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F389C</tstamp>
     </comp>
-    <comp ref="R125">
+    <comp ref="R126">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -892,8 +933,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A1F3A33</tstamp>
     </comp>
-    <comp ref="R126">
+    <comp ref="R127">
       <value>0R02</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Samsung Electro-Mechanics</field>
         <field name="manf#">RU3216FR020CS</field>
@@ -905,6 +947,7 @@
     </comp>
     <comp ref="R101">
       <value>1k</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1085,6 +1128,7 @@
     </comp>
     <comp ref="M101">
       <value>MOUNTING_HOLE</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
       <fields>
         <field name="DNP">True</field>
       </fields>
@@ -1094,6 +1138,7 @@
     </comp>
     <comp ref="M102">
       <value>MOUNTING_HOLE</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
       <fields>
         <field name="DNP">True</field>
       </fields>
@@ -1103,6 +1148,7 @@
     </comp>
     <comp ref="M103">
       <value>MOUNTING_HOLE</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
       <fields>
         <field name="DNP">True</field>
       </fields>
@@ -1112,6 +1158,7 @@
     </comp>
     <comp ref="M104">
       <value>MOUNTING_HOLE</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_Pad</footprint>
       <fields>
         <field name="DNP">True</field>
       </fields>
@@ -1120,19 +1167,20 @@
       <tstamp>5A2254D0</tstamp>
     </comp>
     <comp ref="C103">
-      <value>4.7nF</value>
+      <value>100pF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <fields>
         <field name="Manufacturer">KEMET</field>
-        <field name="manf#">C0603C472J5RACTU</field>
-        <field name="digikey#">399-1088-1-ND</field>
+        <field name="manf#">C0603C101J5GACTU</field>
+        <field name="digikey#">399-1061-1-ND</field>
       </fields>
       <libsource lib="device" part="C_Small"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A207207</tstamp>
     </comp>
-    <comp ref="C105">
+    <comp ref="C106">
       <value>150µF</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
       <fields>
         <field name="Manufacturer">Wurth Electronics Inc.</field>
         <field name="manf#">875105345011</field>
@@ -1142,8 +1190,33 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5A221EE5</tstamp>
     </comp>
-    <comp ref="R208">
+    <comp ref="J102">
+      <value>02x15 IDC</value>
+      <footprint>Conn_IDC:IDC-Header_2x15_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer">On Shore Technology Inc.</field>
+        <field name="manf#">302-S301</field>
+        <field name="digikey#">ED10527-ND</field>
+      </fields>
+      <libsource lib="NikLoad" part="Conn_02x15_Odd_Even"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A24765A</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0733RL</field>
+        <field name="digikey#">311-33.0HRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A266659</tstamp>
+    </comp>
+    <comp ref="R210">
       <value>1k</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1154,8 +1227,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59EBD328</tstamp>
     </comp>
-    <comp ref="R209">
+    <comp ref="R211">
       <value>2mOhm</value>
+      <footprint>NikLoad:R_3920</footprint>
       <fields>
         <field name="Manufacturer">Bourns Inc.</field>
         <field name="manf#">CSS2H-3920K-2L00F</field>
@@ -1165,8 +1239,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59EBD68E</tstamp>
     </comp>
-    <comp ref="R227">
+    <comp ref="R232">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1177,8 +1252,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59EC0F01</tstamp>
     </comp>
-    <comp ref="R210">
+    <comp ref="R212">
       <value>41.2k</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Panasonic</field>
         <field name="manf#">ERA-8ARW4122V</field>
@@ -1188,8 +1264,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59EF8474</tstamp>
     </comp>
-    <comp ref="R206">
+    <comp ref="R208">
       <value>990k</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <fields>
         <field name="Manufacturer">Vishay</field>
         <field name="manf#">PTN1206E9903BST1</field>
@@ -1201,6 +1278,7 @@
     </comp>
     <comp ref="U201">
       <value>OPA388</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa388.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1213,6 +1291,7 @@
     </comp>
     <comp ref="U211">
       <value>MAX6126AASA25+</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX6126.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Maxim Integrated</field>
@@ -1225,6 +1304,7 @@
     </comp>
     <comp ref="U210">
       <value>DAC8560</value>
+      <footprint>Housings_SSOP:VSSOP-8_3.0x3.0mm_Pitch0.65mm</footprint>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
         <field name="manf#">DAC8560IADGKT</field>
@@ -1234,8 +1314,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59F3CCFA</tstamp>
     </comp>
-    <comp ref="R218">
+    <comp ref="R220">
       <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0710KL</field>
@@ -1245,8 +1326,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59F9E38A</tstamp>
     </comp>
-    <comp ref="R223">
+    <comp ref="R225">
       <value>60k4</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603FR-0760K4L</field>
@@ -1258,6 +1340,7 @@
     </comp>
     <comp ref="U206">
       <value>TXETCLSANF-16.384MHz</value>
+      <footprint>Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm</footprint>
       <datasheet>http://www.taitien.com/wp-content/uploads/2015/12/XO-0076_TX.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Taitien</field>
@@ -1270,6 +1353,7 @@
     </comp>
     <comp ref="U208">
       <value>MCP4921T-E/MS</value>
+      <footprint>Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm</footprint>
       <fields>
         <field name="Manufacturer">Microchip Technology</field>
         <field name="manf#">MCP4921T-E/MS</field>
@@ -1279,63 +1363,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A002C64</tstamp>
     </comp>
-    <comp ref="R222">
-      <value>100k</value>
-      <fields>
-        <field name="Manufacturer">Yageo</field>
-        <field name="manf#">RC0603FR-07100KL</field>
-        <field name="digikey#">311-100KHRCT-ND</field>
-      </fields>
-      <libsource lib="device" part="R"/>
-      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
-      <tstamp>5A145EC5</tstamp>
-    </comp>
-    <comp ref="R221">
-      <value>100k</value>
-      <fields>
-        <field name="Manufacturer">Yageo</field>
-        <field name="manf#">RC0603FR-07100KL</field>
-        <field name="digikey#">311-100KHRCT-ND</field>
-      </fields>
-      <libsource lib="device" part="R"/>
-      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
-      <tstamp>5A145F3B</tstamp>
-    </comp>
-    <comp ref="R220">
-      <value>100k</value>
-      <fields>
-        <field name="Manufacturer">Yageo</field>
-        <field name="manf#">RC0603FR-07100KL</field>
-        <field name="digikey#">311-100KHRCT-ND</field>
-      </fields>
-      <libsource lib="device" part="R"/>
-      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
-      <tstamp>5A146028</tstamp>
-    </comp>
-    <comp ref="R201">
-      <value>100k</value>
-      <fields>
-        <field name="Manufacturer">Yageo</field>
-        <field name="manf#">RC0603FR-07100KL</field>
-        <field name="digikey#">311-100KHRCT-ND</field>
-      </fields>
-      <libsource lib="device" part="R"/>
-      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
-      <tstamp>5A14B77D</tstamp>
-    </comp>
-    <comp ref="R202">
-      <value>100k</value>
-      <fields>
-        <field name="Manufacturer">Yageo</field>
-        <field name="manf#">RC0603FR-07100KL</field>
-        <field name="digikey#">311-100KHRCT-ND</field>
-      </fields>
-      <libsource lib="device" part="R"/>
-      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
-      <tstamp>5A14BAC6</tstamp>
-    </comp>
     <comp ref="U203">
       <value>OPA388</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa388.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1348,6 +1378,7 @@
     </comp>
     <comp ref="U204">
       <value>OPA388</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa388.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1360,6 +1391,7 @@
     </comp>
     <comp ref="U202">
       <value>OPA388</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa388.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1372,6 +1404,7 @@
     </comp>
     <comp ref="U209">
       <value>OPA388</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa388.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1382,8 +1415,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1319B1</tstamp>
     </comp>
-    <comp ref="R219">
+    <comp ref="R221">
       <value>33</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
       <fields>
         <field name="Manufacturer">Yageo</field>
         <field name="manf#">RC0603JR-0733RL</field>
@@ -1393,8 +1427,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A132F1B</tstamp>
     </comp>
-    <comp ref="R211">
+    <comp ref="R213">
       <value>1k</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1407,6 +1442,7 @@
     </comp>
     <comp ref="U207">
       <value>NX3L4357</value>
+      <footprint>NikLoad:NX3L4357</footprint>
       <datasheet>http://www.nxp.com/documents/data_sheet/NX3L4357.pdf</datasheet>
       <fields>
         <field name="Manufacturer">NXP USA Inc.</field>
@@ -1623,6 +1659,7 @@
     </comp>
     <comp ref="U205">
       <value>ADS127L01</value>
+      <footprint>Housings_QFP:LQFP-32_5x5mm_Pitch0.5mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ads127l01.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Texas Instruments</field>
@@ -1633,8 +1670,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>59FB5FEB</tstamp>
     </comp>
-    <comp ref="R226">
+    <comp ref="R231">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1645,8 +1683,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1731A4</tstamp>
     </comp>
-    <comp ref="R224">
+    <comp ref="R229">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1657,8 +1696,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A173251</tstamp>
     </comp>
-    <comp ref="R225">
+    <comp ref="R230">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1669,8 +1709,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1734F5</tstamp>
     </comp>
-    <comp ref="R212">
+    <comp ref="R214">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1681,8 +1722,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1735A6</tstamp>
     </comp>
-    <comp ref="R205">
+    <comp ref="R207">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1693,8 +1735,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A173E16</tstamp>
     </comp>
-    <comp ref="R207">
+    <comp ref="R209">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1707,6 +1750,7 @@
     </comp>
     <comp ref="R203">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1717,8 +1761,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A174220</tstamp>
     </comp>
-    <comp ref="R204">
+    <comp ref="R206">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1729,8 +1774,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1745EE</tstamp>
     </comp>
-    <comp ref="R215">
+    <comp ref="R217">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1741,8 +1787,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A174988</tstamp>
     </comp>
-    <comp ref="R217">
+    <comp ref="R219">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1753,8 +1800,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A175714</tstamp>
     </comp>
-    <comp ref="R213">
+    <comp ref="R215">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1765,8 +1813,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A175AEA</tstamp>
     </comp>
-    <comp ref="R214">
+    <comp ref="R216">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1777,8 +1826,9 @@
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A1760EF</tstamp>
     </comp>
-    <comp ref="R216">
+    <comp ref="R218">
       <value>20k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
       <datasheet>https://www.seielect.com/Catalog/SEI-RNCF.pdf</datasheet>
       <fields>
         <field name="Manufacturer">Stackpole Electronics Inc.</field>
@@ -1791,6 +1841,7 @@
     </comp>
     <comp ref="D202">
       <value>BAT46WQ-7-F</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
       <fields>
         <field name="Manufacturer">Diodes Incorporated</field>
         <field name="manf#">BAT46WQ-7-F</field>
@@ -1802,6 +1853,7 @@
     </comp>
     <comp ref="D203">
       <value>BAT46WQ-7-F</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
       <fields>
         <field name="Manufacturer">Diodes Incorporated</field>
         <field name="manf#">BAT46WQ-7-F</field>
@@ -1813,6 +1865,7 @@
     </comp>
     <comp ref="D201">
       <value>BAT46WQ-7-F</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
       <fields>
         <field name="Manufacturer">Diodes Incorporated</field>
         <field name="manf#">BAT46WQ-7-F</field>
@@ -1821,6 +1874,126 @@
       <libsource lib="device" part="D_Schottky"/>
       <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
       <tstamp>5A18EF40</tstamp>
+    </comp>
+    <comp ref="R204">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A25DF9C</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A25E502</tstamp>
+    </comp>
+    <comp ref="R205">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A25E879</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A25E958</tstamp>
+    </comp>
+    <comp ref="R222">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26DB17</tstamp>
+    </comp>
+    <comp ref="R226">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26EA16</tstamp>
+    </comp>
+    <comp ref="R223">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26EB25</tstamp>
+    </comp>
+    <comp ref="R224">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26EC1D</tstamp>
+    </comp>
+    <comp ref="R227">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26F9A3</tstamp>
+    </comp>
+    <comp ref="R228">
+      <value>51k1</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="manf#">RC0603FR-0751K1L</field>
+        <field name="digikey#">311-51.1KHRCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Measurement/" tstamps="/59EBD10C/"/>
+      <tstamp>5A26FA7F</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1858,7 +2031,7 @@
         <field name="Value">ADS127L01</field>
       </fields>
       <pins>
-        <pin num="1" name="LVDD" type="unspc"/>
+        <pin num="1" name="LVDD" type="passive"/>
         <pin num="2" name="CAP1" type="output"/>
         <pin num="3" name="AINN" type="input"/>
         <pin num="4" name="AINP" type="input"/>
@@ -1940,7 +2113,7 @@
         <pin num="2" name="Pin_2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="conn" part="Conn_02x15_Odd_Even">
+    <libpart lib="NikLoad" part="Conn_02x15_Odd_Even">
       <description>Generic connector, double row, 02x15, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)</description>
       <docs>~</docs>
       <footprints>
@@ -1956,7 +2129,7 @@
         <field name="Value">Conn_02x15_Odd_Even</field>
       </fields>
       <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="1" name="Pin_1" type="power_out"/>
         <pin num="2" name="Pin_2" type="passive"/>
         <pin num="3" name="Pin_3" type="passive"/>
         <pin num="4" name="Pin_4" type="passive"/>
@@ -1997,7 +2170,7 @@
       </fields>
       <pins>
         <pin num="1" name="VDD" type="power_in"/>
-        <pin num="2" name="Vref" type="BiDi"/>
+        <pin num="2" name="Vref" type="input"/>
         <pin num="3" name="Vfb" type="input"/>
         <pin num="4" name="Vout" type="output"/>
         <pin num="5" name="~SYNC" type="input"/>
@@ -2051,7 +2224,7 @@
         <pin num="3" name="GND" type="power_in"/>
         <pin num="4" name="GNDS" type="input"/>
         <pin num="5" name="I.C." type="NotConnected"/>
-        <pin num="6" name="OUTS" type="power_out"/>
+        <pin num="6" name="OUTS" type="input"/>
         <pin num="7" name="OUTF" type="power_out"/>
         <pin num="8" name="I.C." type="NotConnected"/>
       </pins>
@@ -2089,7 +2262,7 @@
         <field name="Value">MOUNTING_HOLE</field>
       </fields>
       <pins>
-        <pin num="1" name="RING" type="unspc"/>
+        <pin num="1" name="RING" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="regul" part="NCP1117-12_TO252">
@@ -2239,7 +2412,7 @@
         <pin num="1" name="GND" type="power_in"/>
         <pin num="2" name="VO" type="power_out"/>
         <pin num="3" name="VI" type="power_in"/>
-        <pin num="4" name="VO" type="power_out"/>
+        <pin num="4" name="VO" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="NikLoad" part="TXETCLSANF">
@@ -2276,700 +2449,718 @@
     <library logical="NikLoad">
       <uri>/home/nikomo/projects/NikLoad/Hardware/Analog/NikLoad.lib</uri>
     </library>
-    <library logical="regul">
-      <uri>/usr/share/kicad/library/regul.lib</uri>
-    </library>
     <library logical="device">
       <uri>/usr/share/kicad/library/device.lib</uri>
-    </library>
-    <library logical="adc-dac">
-      <uri>/usr/share/kicad/library/adc-dac.lib</uri>
     </library>
     <library logical="conn">
       <uri>/usr/share/kicad/library/conn.lib</uri>
     </library>
+    <library logical="regul">
+      <uri>/usr/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="adc-dac">
+      <uri>/usr/share/kicad/library/adc-dac.lib</uri>
+    </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(Q114-Pad1)">
-      <node ref="Q114" pin="1"/>
-      <node ref="U102" pin="7"/>
-    </net>
-    <net code="2" name="/Measurement/S1">
-      <node ref="U207" pin="2"/>
-      <node ref="U102" pin="5"/>
-    </net>
-    <net code="3" name="Net-(D101-Pad2)">
-      <node ref="D101" pin="2"/>
-      <node ref="R145" pin="1"/>
-    </net>
-    <net code="4" name="/Measurement/S0">
-      <node ref="U207" pin="1"/>
-      <node ref="U102" pin="4"/>
-    </net>
-    <net code="5" name="Net-(D102-Pad2)">
-      <node ref="D102" pin="2"/>
-      <node ref="R146" pin="1"/>
-    </net>
-    <net code="6" name="Net-(Q113-Pad1)">
-      <node ref="U102" pin="6"/>
-      <node ref="Q113" pin="1"/>
-    </net>
-    <net code="7" name="Net-(D102-Pad1)">
-      <node ref="D102" pin="1"/>
-      <node ref="Q114" pin="3"/>
-    </net>
-    <net code="8" name="Net-(R137-Pad2)">
-      <node ref="U102" pin="1"/>
-      <node ref="R137" pin="2"/>
-      <node ref="R138" pin="1"/>
-    </net>
-    <net code="9" name="Net-(R139-Pad2)">
-      <node ref="R140" pin="1"/>
-      <node ref="R139" pin="2"/>
-      <node ref="U102" pin="2"/>
-    </net>
-    <net code="10" name="Net-(R141-Pad2)">
-      <node ref="R141" pin="2"/>
-      <node ref="U102" pin="3"/>
-      <node ref="R142" pin="1"/>
-    </net>
-    <net code="11" name="Net-(D101-Pad1)">
-      <node ref="D101" pin="1"/>
-      <node ref="Q113" pin="3"/>
-    </net>
-    <net code="12" name="/Measurement/OSR1">
-      <node ref="U205" pin="15"/>
-      <node ref="R142" pin="2"/>
-    </net>
-    <net code="13" name="/Measurement/OSR0">
-      <node ref="R140" pin="2"/>
-      <node ref="U205" pin="16"/>
-    </net>
-    <net code="14" name="/Setpoint">
-      <node ref="R226" pin="1"/>
-      <node ref="U209" pin="6"/>
-    </net>
-    <net code="15" name="/CurrentSense">
-      <node ref="U204" pin="6"/>
-      <node ref="R214" pin="1"/>
-      <node ref="R224" pin="2"/>
-    </net>
-    <net code="16" name="/Measurement/SenseResistor">
-      <node ref="R126" pin="2"/>
-      <node ref="R121" pin="2"/>
-      <node ref="R124" pin="2"/>
-      <node ref="R208" pin="2"/>
-      <node ref="R209" pin="1"/>
-      <node ref="R119" pin="2"/>
-      <node ref="R115" pin="2"/>
-      <node ref="R116" pin="2"/>
-      <node ref="R117" pin="2"/>
-      <node ref="R118" pin="2"/>
-      <node ref="R120" pin="2"/>
-      <node ref="R122" pin="2"/>
-      <node ref="R123" pin="2"/>
-    </net>
-    <net code="17" name="Net-(R135-Pad2)">
-      <node ref="U102" pin="15"/>
-      <node ref="R135" pin="2"/>
-      <node ref="R136" pin="2"/>
-    </net>
-    <net code="18" name="Net-(Q101-Pad1)">
-      <node ref="R102" pin="1"/>
-      <node ref="Q101" pin="1"/>
-    </net>
-    <net code="19" name="Net-(Q102-Pad1)">
-      <node ref="Q102" pin="1"/>
-      <node ref="R103" pin="1"/>
-    </net>
-    <net code="20" name="+12V">
-      <node ref="U211" pin="2"/>
-      <node ref="C101" pin="1"/>
-      <node ref="F101" pin="1"/>
-      <node ref="C105" pin="1"/>
-      <node ref="C108" pin="1"/>
-      <node ref="C107" pin="1"/>
-      <node ref="C215" pin="1"/>
-      <node ref="C102" pin="1"/>
-      <node ref="C104" pin="1"/>
-      <node ref="U103" pin="3"/>
-      <node ref="U101" pin="5"/>
-    </net>
-    <net code="21" name="+3.3V">
-      <node ref="U206" pin="4"/>
-      <node ref="U208" pin="1"/>
-      <node ref="R139" pin="1"/>
-      <node ref="R141" pin="1"/>
-      <node ref="R137" pin="1"/>
-      <node ref="R135" pin="1"/>
-      <node ref="C203" pin="1"/>
-      <node ref="C202" pin="1"/>
-      <node ref="C206" pin="1"/>
-      <node ref="C210" pin="1"/>
-      <node ref="C205" pin="1"/>
-      <node ref="U205" pin="27"/>
-      <node ref="U104" pin="4"/>
-      <node ref="U205" pin="32"/>
-      <node ref="U104" pin="2"/>
-      <node ref="C106" pin="1"/>
-      <node ref="U102" pin="10"/>
-      <node ref="U102" pin="16"/>
-      <node ref="U205" pin="1"/>
-      <node ref="C212" pin="1"/>
-      <node ref="U205" pin="6"/>
-      <node ref="C204" pin="1"/>
-      <node ref="C111" pin="1"/>
-      <node ref="R201" pin="1"/>
-      <node ref="U207" pin="10"/>
-      <node ref="R202" pin="1"/>
-    </net>
-    <net code="22" name="+5V">
-      <node ref="U204" pin="7"/>
-      <node ref="U201" pin="7"/>
-      <node ref="C110" pin="1"/>
-      <node ref="U202" pin="7"/>
-      <node ref="U209" pin="7"/>
-      <node ref="C109" pin="1"/>
-      <node ref="U203" pin="7"/>
-      <node ref="U104" pin="3"/>
-      <node ref="U103" pin="2"/>
-      <node ref="R145" pin="2"/>
-      <node ref="R146" pin="2"/>
-    </net>
-    <net code="23" name="/DUT+">
-      <node ref="Q103" pin="2"/>
-      <node ref="J101" pin="1"/>
-      <node ref="Q112" pin="4"/>
-      <node ref="Q103" pin="4"/>
-      <node ref="Q112" pin="2"/>
-      <node ref="Q111" pin="4"/>
-      <node ref="Q111" pin="2"/>
-      <node ref="Q110" pin="2"/>
-      <node ref="Q102" pin="4"/>
-      <node ref="Q109" pin="4"/>
-      <node ref="Q109" pin="2"/>
-      <node ref="Q108" pin="4"/>
-      <node ref="Q108" pin="2"/>
-      <node ref="Q110" pin="4"/>
-      <node ref="Q101" pin="4"/>
-      <node ref="Q101" pin="2"/>
-      <node ref="Q104" pin="2"/>
-      <node ref="Q107" pin="4"/>
-      <node ref="Q107" pin="2"/>
-      <node ref="Q106" pin="4"/>
-      <node ref="Q106" pin="2"/>
-      <node ref="Q105" pin="4"/>
-      <node ref="Q105" pin="2"/>
-      <node ref="Q104" pin="4"/>
-      <node ref="Q102" pin="2"/>
-      <node ref="R206" pin="1"/>
-    </net>
-    <net code="24" name="/Measurement/DUT-">
-      <node ref="R209" pin="2"/>
-      <node ref="R210" pin="2"/>
-      <node ref="R211" pin="1"/>
-      <node ref="J101" pin="2"/>
-    </net>
-    <net code="25" name="Net-(Q107-Pad1)">
-      <node ref="Q107" pin="1"/>
-      <node ref="R108" pin="1"/>
-    </net>
-    <net code="26" name="Net-(Q112-Pad1)">
-      <node ref="R113" pin="1"/>
-      <node ref="Q112" pin="1"/>
-    </net>
-    <net code="27" name="Net-(Q111-Pad1)">
-      <node ref="R112" pin="1"/>
-      <node ref="Q111" pin="1"/>
-    </net>
-    <net code="28" name="Net-(Q110-Pad1)">
-      <node ref="R111" pin="1"/>
-      <node ref="Q110" pin="1"/>
-    </net>
-    <net code="29" name="Net-(Q109-Pad1)">
-      <node ref="Q109" pin="1"/>
-      <node ref="R110" pin="1"/>
-    </net>
-    <net code="30" name="Net-(Q108-Pad1)">
-      <node ref="Q108" pin="1"/>
-      <node ref="R109" pin="1"/>
-    </net>
-    <net code="31" name="Net-(Q106-Pad1)">
-      <node ref="Q106" pin="1"/>
-      <node ref="R107" pin="1"/>
-    </net>
-    <net code="32" name="Net-(Q105-Pad1)">
-      <node ref="Q105" pin="1"/>
-      <node ref="R106" pin="1"/>
-    </net>
-    <net code="33" name="Net-(Q104-Pad1)">
+    <net code="1" name="Net-(Q104-Pad1)">
       <node ref="R105" pin="1"/>
       <node ref="Q104" pin="1"/>
     </net>
-    <net code="34" name="Net-(Q103-Pad1)">
+    <net code="2" name="Net-(Q103-Pad1)">
       <node ref="Q103" pin="1"/>
       <node ref="R104" pin="1"/>
     </net>
-    <net code="35" name="/Measurement/SPI1_CE0">
-      <node ref="R134" pin="1"/>
-      <node ref="RV108" pin="1"/>
-      <node ref="U210" pin="5"/>
+    <net code="3" name="Net-(Q101-Pad1)">
+      <node ref="Q101" pin="1"/>
+      <node ref="R102" pin="1"/>
     </net>
-    <net code="36" name="Net-(J102-Pad13)">
-      <node ref="J102" pin="13"/>
-      <node ref="RV105" pin="1"/>
-      <node ref="R128" pin="1"/>
+    <net code="4" name="Net-(Q102-Pad1)">
+      <node ref="Q102" pin="1"/>
+      <node ref="R103" pin="1"/>
     </net>
-    <net code="37" name="/Measurement/SPI1_MOSI">
-      <node ref="U208" pin="4"/>
-      <node ref="U210" pin="7"/>
-      <node ref="R133" pin="1"/>
-      <node ref="RV107" pin="1"/>
+    <net code="5" name="/DUT+">
+      <node ref="Q101" pin="4"/>
+      <node ref="Q101" pin="2"/>
+      <node ref="Q112" pin="4"/>
+      <node ref="Q112" pin="2"/>
+      <node ref="Q111" pin="4"/>
+      <node ref="Q102" pin="4"/>
+      <node ref="Q104" pin="4"/>
+      <node ref="Q103" pin="2"/>
+      <node ref="Q111" pin="2"/>
+      <node ref="Q103" pin="4"/>
+      <node ref="Q104" pin="2"/>
+      <node ref="R208" pin="1"/>
+      <node ref="Q110" pin="2"/>
+      <node ref="Q106" pin="2"/>
+      <node ref="Q106" pin="4"/>
+      <node ref="Q105" pin="4"/>
+      <node ref="Q107" pin="2"/>
+      <node ref="Q108" pin="4"/>
+      <node ref="Q110" pin="4"/>
+      <node ref="Q105" pin="2"/>
+      <node ref="Q109" pin="4"/>
+      <node ref="Q108" pin="2"/>
+      <node ref="Q107" pin="4"/>
+      <node ref="Q109" pin="2"/>
+      <node ref="J101" pin="1"/>
+      <node ref="Q102" pin="2"/>
     </net>
-    <net code="38" name="GND">
-      <node ref="R216" pin="2"/>
-      <node ref="Q113" pin="2"/>
-      <node ref="R221" pin="2"/>
-      <node ref="R217" pin="2"/>
-      <node ref="U102" pin="13"/>
-      <node ref="C215" pin="2"/>
-      <node ref="U102" pin="8"/>
-      <node ref="R222" pin="2"/>
-      <node ref="R220" pin="2"/>
-      <node ref="J102" pin="6"/>
-      <node ref="J102" pin="4"/>
-      <node ref="J102" pin="2"/>
-      <node ref="C106" pin="2"/>
-      <node ref="U203" pin="4"/>
-      <node ref="C216" pin="2"/>
-      <node ref="U210" pin="8"/>
-      <node ref="U209" pin="4"/>
-      <node ref="U202" pin="4"/>
-      <node ref="U204" pin="4"/>
-      <node ref="C217" pin="2"/>
-      <node ref="C214" pin="2"/>
+    <net code="6" name="/Measurement/DUT-">
+      <node ref="R211" pin="2"/>
+      <node ref="J101" pin="2"/>
+      <node ref="R212" pin="2"/>
+      <node ref="R213" pin="1"/>
+    </net>
+    <net code="7" name="Net-(Q110-Pad1)">
+      <node ref="R111" pin="1"/>
+      <node ref="Q110" pin="1"/>
+    </net>
+    <net code="8" name="Net-(Q112-Pad1)">
+      <node ref="Q112" pin="1"/>
+      <node ref="R113" pin="1"/>
+    </net>
+    <net code="9" name="Net-(Q111-Pad1)">
+      <node ref="R112" pin="1"/>
+      <node ref="Q111" pin="1"/>
+    </net>
+    <net code="10" name="Net-(Q109-Pad1)">
+      <node ref="Q109" pin="1"/>
+      <node ref="R110" pin="1"/>
+    </net>
+    <net code="11" name="Net-(Q108-Pad1)">
+      <node ref="Q108" pin="1"/>
+      <node ref="R109" pin="1"/>
+    </net>
+    <net code="12" name="Net-(Q107-Pad1)">
+      <node ref="R108" pin="1"/>
+      <node ref="Q107" pin="1"/>
+    </net>
+    <net code="13" name="Net-(Q106-Pad1)">
+      <node ref="Q106" pin="1"/>
+      <node ref="R107" pin="1"/>
+    </net>
+    <net code="14" name="Net-(Q105-Pad1)">
+      <node ref="R106" pin="1"/>
+      <node ref="Q105" pin="1"/>
+    </net>
+    <net code="15" name="/Setpoint">
+      <node ref="R231" pin="1"/>
+      <node ref="R101" pin="1"/>
+      <node ref="U209" pin="6"/>
+    </net>
+    <net code="16" name="/CurrentSense">
+      <node ref="U204" pin="6"/>
+      <node ref="R229" pin="2"/>
+      <node ref="R216" pin="1"/>
+      <node ref="U101" pin="3"/>
+    </net>
+    <net code="17" name="Net-(R136-Pad2)">
+      <node ref="U102" pin="15"/>
+      <node ref="R137" pin="2"/>
+      <node ref="R136" pin="2"/>
+    </net>
+    <net code="18" name="Net-(R138-Pad2)">
+      <node ref="R138" pin="2"/>
+      <node ref="U102" pin="1"/>
+      <node ref="R139" pin="1"/>
+    </net>
+    <net code="19" name="Net-(Q114-Pad1)">
+      <node ref="Q114" pin="1"/>
+      <node ref="U102" pin="7"/>
+    </net>
+    <net code="20" name="/Measurement/S1">
+      <node ref="U102" pin="5"/>
+      <node ref="U207" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D101-Pad2)">
+      <node ref="R146" pin="1"/>
+      <node ref="D101" pin="2"/>
+    </net>
+    <net code="22" name="/Measurement/S0">
+      <node ref="U102" pin="4"/>
+      <node ref="U207" pin="1"/>
+    </net>
+    <net code="23" name="Net-(D102-Pad2)">
+      <node ref="R147" pin="1"/>
+      <node ref="D102" pin="2"/>
+    </net>
+    <net code="24" name="Net-(Q113-Pad1)">
+      <node ref="U102" pin="6"/>
+      <node ref="Q113" pin="1"/>
+    </net>
+    <net code="25" name="/Measurement/SenseResistor">
+      <node ref="R121" pin="2"/>
+      <node ref="R122" pin="2"/>
+      <node ref="R123" pin="2"/>
+      <node ref="R124" pin="2"/>
+      <node ref="R125" pin="2"/>
+      <node ref="R126" pin="2"/>
+      <node ref="R127" pin="2"/>
+      <node ref="R117" pin="2"/>
+      <node ref="R120" pin="2"/>
+      <node ref="R119" pin="2"/>
+      <node ref="R118" pin="2"/>
+      <node ref="R116" pin="2"/>
+      <node ref="R211" pin="1"/>
+      <node ref="R210" pin="2"/>
+    </net>
+    <net code="26" name="+5V">
+      <node ref="U201" pin="7"/>
+      <node ref="R147" pin="2"/>
+      <node ref="U103" pin="2"/>
+      <node ref="U104" pin="3"/>
+      <node ref="C109" pin="1"/>
+      <node ref="U204" pin="7"/>
+      <node ref="C110" pin="1"/>
+      <node ref="U202" pin="7"/>
+      <node ref="U209" pin="7"/>
+      <node ref="R146" pin="2"/>
+      <node ref="U203" pin="7"/>
+    </net>
+    <net code="27" name="Net-(J102-Pad17)">
+      <node ref="J102" pin="17"/>
+      <node ref="R134" pin="2"/>
+    </net>
+    <net code="28" name="Net-(J102-Pad19)">
+      <node ref="J102" pin="19"/>
+      <node ref="R135" pin="2"/>
+    </net>
+    <net code="29" name="+12V">
+      <node ref="C102" pin="1"/>
+      <node ref="C108" pin="1"/>
+      <node ref="C101" pin="1"/>
+      <node ref="U101" pin="5"/>
+      <node ref="U103" pin="3"/>
+      <node ref="C107" pin="1"/>
+      <node ref="C215" pin="1"/>
+      <node ref="U211" pin="2"/>
+      <node ref="C105" pin="1"/>
+      <node ref="F101" pin="1"/>
+      <node ref="C106" pin="1"/>
+    </net>
+    <net code="30" name="+3V3">
+      <node ref="C210" pin="1"/>
+      <node ref="R202" pin="2"/>
+      <node ref="U205" pin="32"/>
+      <node ref="U205" pin="27"/>
+      <node ref="U205" pin="6"/>
+      <node ref="R142" pin="1"/>
+      <node ref="R201" pin="1"/>
+      <node ref="U102" pin="16"/>
+      <node ref="U102" pin="10"/>
+      <node ref="U207" pin="10"/>
+      <node ref="C213" pin="1"/>
+      <node ref="U210" pin="1"/>
+      <node ref="U208" pin="1"/>
+      <node ref="U206" pin="4"/>
+      <node ref="R138" pin="1"/>
+      <node ref="C206" pin="1"/>
+      <node ref="R136" pin="1"/>
+      <node ref="U104" pin="2"/>
+      <node ref="R140" pin="1"/>
+      <node ref="U104" pin="4"/>
+      <node ref="C202" pin="1"/>
+      <node ref="C203" pin="1"/>
+      <node ref="C104" pin="1"/>
+      <node ref="C212" pin="1"/>
+      <node ref="C204" pin="1"/>
+      <node ref="C111" pin="1"/>
+    </net>
+    <net code="31" name="Earth">
+      <node ref="R228" pin="1"/>
+      <node ref="R227" pin="1"/>
       <node ref="D202" pin="2"/>
-      <node ref="C213" pin="2"/>
+      <node ref="R226" pin="1"/>
       <node ref="D203" pin="2"/>
-      <node ref="U211" pin="3"/>
-      <node ref="U206" pin="2"/>
-      <node ref="U208" pin="7"/>
-      <node ref="U211" pin="4"/>
-      <node ref="U201" pin="4"/>
-      <node ref="R227" pin="2"/>
-      <node ref="R223" pin="2"/>
+      <node ref="D201" pin="2"/>
+      <node ref="Q114" pin="2"/>
+      <node ref="Q113" pin="2"/>
+      <node ref="C109" pin="2"/>
+      <node ref="C104" pin="2"/>
+      <node ref="C105" pin="2"/>
+      <node ref="C108" pin="2"/>
+      <node ref="U205" pin="5"/>
+      <node ref="R230" pin="1"/>
+      <node ref="R219" pin="2"/>
       <node ref="R218" pin="2"/>
+      <node ref="U205" pin="10"/>
+      <node ref="U205" pin="31"/>
       <node ref="U205" pin="26"/>
       <node ref="U205" pin="18"/>
+      <node ref="J102" pin="18"/>
+      <node ref="C215" pin="2"/>
       <node ref="C210" pin="2"/>
       <node ref="C211" pin="2"/>
       <node ref="C206" pin="2"/>
       <node ref="C202" pin="2"/>
       <node ref="C203" pin="2"/>
       <node ref="C205" pin="2"/>
+      <node ref="J102" pin="28"/>
       <node ref="C204" pin="2"/>
       <node ref="C207" pin="2"/>
       <node ref="C208" pin="2"/>
       <node ref="C209" pin="2"/>
-      <node ref="U205" pin="31"/>
       <node ref="C212" pin="2"/>
       <node ref="C201" pin="1"/>
-      <node ref="U205" pin="5"/>
-      <node ref="R225" pin="1"/>
-      <node ref="D201" pin="2"/>
-      <node ref="U207" pin="5"/>
+      <node ref="J102" pin="26"/>
+      <node ref="C110" pin="2"/>
       <node ref="U207" pin="4"/>
-      <node ref="U205" pin="10"/>
-      <node ref="M101" pin="1"/>
-      <node ref="C105" pin="2"/>
-      <node ref="RV102" pin="2"/>
-      <node ref="C102" pin="2"/>
-      <node ref="RV110" pin="2"/>
-      <node ref="C107" pin="2"/>
-      <node ref="C101" pin="2"/>
-      <node ref="RV109" pin="2"/>
-      <node ref="RV108" pin="2"/>
-      <node ref="C108" pin="2"/>
-      <node ref="C109" pin="2"/>
-      <node ref="RV113" pin="2"/>
-      <node ref="RV107" pin="2"/>
-      <node ref="RV112" pin="2"/>
+      <node ref="U203" pin="4"/>
+      <node ref="U204" pin="4"/>
+      <node ref="U202" pin="4"/>
+      <node ref="U209" pin="4"/>
+      <node ref="C111" pin="2"/>
+      <node ref="U207" pin="5"/>
+      <node ref="J102" pin="16"/>
+      <node ref="U211" pin="3"/>
+      <node ref="U211" pin="4"/>
+      <node ref="J102" pin="24"/>
+      <node ref="U206" pin="2"/>
+      <node ref="U208" pin="7"/>
+      <node ref="J102" pin="6"/>
+      <node ref="C216" pin="2"/>
+      <node ref="J102" pin="4"/>
+      <node ref="C213" pin="2"/>
+      <node ref="C214" pin="2"/>
+      <node ref="C217" pin="2"/>
+      <node ref="U210" pin="8"/>
+      <node ref="J102" pin="8"/>
+      <node ref="R220" pin="2"/>
+      <node ref="R225" pin="2"/>
+      <node ref="J102" pin="10"/>
+      <node ref="J102" pin="20"/>
+      <node ref="J102" pin="30"/>
+      <node ref="J102" pin="12"/>
+      <node ref="J102" pin="22"/>
+      <node ref="R232" pin="2"/>
+      <node ref="U201" pin="4"/>
+      <node ref="J102" pin="14"/>
+      <node ref="M102" pin="1"/>
+      <node ref="C106" pin="2"/>
+      <node ref="R114" pin="2"/>
+      <node ref="U102" pin="8"/>
+      <node ref="M103" pin="1"/>
+      <node ref="RV101" pin="2"/>
       <node ref="RV111" pin="2"/>
+      <node ref="RV112" pin="2"/>
+      <node ref="RV113" pin="2"/>
+      <node ref="J102" pin="2"/>
+      <node ref="M101" pin="1"/>
+      <node ref="RV110" pin="2"/>
+      <node ref="U101" pin="2"/>
+      <node ref="U102" pin="13"/>
+      <node ref="RV104" pin="2"/>
+      <node ref="C102" pin="2"/>
       <node ref="RV106" pin="2"/>
       <node ref="RV105" pin="2"/>
-      <node ref="M102" pin="1"/>
-      <node ref="M103" pin="1"/>
-      <node ref="U101" pin="2"/>
-      <node ref="M104" pin="1"/>
-      <node ref="U104" pin="1"/>
-      <node ref="U103" pin="1"/>
-      <node ref="R114" pin="2"/>
-      <node ref="C111" pin="2"/>
-      <node ref="C110" pin="2"/>
-      <node ref="J102" pin="30"/>
-      <node ref="J102" pin="28"/>
-      <node ref="J102" pin="18"/>
-      <node ref="J102" pin="26"/>
-      <node ref="J102" pin="16"/>
-      <node ref="J102" pin="24"/>
-      <node ref="J102" pin="22"/>
-      <node ref="J102" pin="12"/>
-      <node ref="J102" pin="20"/>
-      <node ref="J102" pin="10"/>
-      <node ref="J102" pin="14"/>
-      <node ref="C104" pin="2"/>
-      <node ref="J102" pin="8"/>
       <node ref="RV103" pin="2"/>
-      <node ref="Q114" pin="2"/>
-      <node ref="RV104" pin="2"/>
-      <node ref="RV101" pin="2"/>
+      <node ref="RV102" pin="2"/>
+      <node ref="RV109" pin="2"/>
+      <node ref="RV108" pin="2"/>
+      <node ref="U104" pin="1"/>
+      <node ref="RV107" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="M104" pin="1"/>
+      <node ref="U103" pin="1"/>
     </net>
-    <net code="39" name="/Measurement/Offset_LDAC">
-      <node ref="R144" pin="1"/>
-      <node ref="RV110" pin="1"/>
-      <node ref="U208" pin="5"/>
+    <net code="32" name="Net-(J102-Pad11)">
+      <node ref="R132" pin="2"/>
+      <node ref="J102" pin="11"/>
     </net>
-    <net code="40" name="/Measurement/SPI1_CE1">
-      <node ref="R143" pin="1"/>
-      <node ref="RV109" pin="1"/>
-      <node ref="U208" pin="2"/>
+    <net code="33" name="Net-(J102-Pad5)">
+      <node ref="J102" pin="5"/>
+      <node ref="R130" pin="2"/>
     </net>
-    <net code="41" name="/Measurement/~DRDY~/FSYNC">
-      <node ref="R128" pin="2"/>
+    <net code="34" name="Net-(J102-Pad7)">
+      <node ref="J102" pin="7"/>
+      <node ref="R131" pin="2"/>
+    </net>
+    <net code="35" name="Net-(J102-Pad9)">
+      <node ref="R128" pin="1"/>
+      <node ref="RV103" pin="1"/>
+      <node ref="J102" pin="9"/>
+    </net>
+    <net code="36" name="Net-(J102-Pad21)">
+      <node ref="R144" pin="2"/>
+      <node ref="J102" pin="21"/>
+    </net>
+    <net code="37" name="Net-(J102-Pad23)">
+      <node ref="R145" pin="2"/>
+      <node ref="J102" pin="23"/>
+    </net>
+    <net code="38" name="Net-(J102-Pad15)">
+      <node ref="R133" pin="2"/>
+      <node ref="J102" pin="15"/>
+    </net>
+    <net code="39" name="Net-(R140-Pad2)">
+      <node ref="U102" pin="2"/>
+      <node ref="R141" pin="1"/>
+      <node ref="R140" pin="2"/>
+    </net>
+    <net code="40" name="/Measurement/~DRDY~/FSYNC">
+      <node ref="R129" pin="2"/>
       <node ref="U205" pin="19"/>
     </net>
-    <net code="42" name="/CurrentSense">
-      <node ref="U101" pin="3"/>
-    </net>
-    <net code="43" name="Net-(C103-Pad1)">
-      <node ref="C103" pin="1"/>
-      <node ref="U101" pin="4"/>
-      <node ref="R101" pin="2"/>
-    </net>
-    <net code="44" name="Net-(C103-Pad2)">
-      <node ref="R109" pin="2"/>
-      <node ref="R110" pin="2"/>
-      <node ref="R112" pin="2"/>
-      <node ref="R108" pin="2"/>
-      <node ref="R107" pin="2"/>
-      <node ref="R113" pin="2"/>
-      <node ref="R114" pin="1"/>
-      <node ref="C103" pin="2"/>
+    <net code="41" name="Net-(C103-Pad2)">
       <node ref="R106" pin="2"/>
-      <node ref="R105" pin="2"/>
-      <node ref="R104" pin="2"/>
-      <node ref="R103" pin="2"/>
+      <node ref="R113" pin="2"/>
       <node ref="U101" pin="1"/>
+      <node ref="R104" pin="2"/>
+      <node ref="C103" pin="2"/>
+      <node ref="R114" pin="1"/>
+      <node ref="R103" pin="2"/>
+      <node ref="R109" pin="2"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R108" pin="2"/>
+      <node ref="R112" pin="2"/>
       <node ref="R102" pin="2"/>
       <node ref="R111" pin="2"/>
+      <node ref="R110" pin="2"/>
+      <node ref="R105" pin="2"/>
     </net>
-    <net code="45" name="Net-(J102-Pad25)">
+    <net code="42" name="Net-(C103-Pad1)">
+      <node ref="C103" pin="1"/>
+      <node ref="R115" pin="1"/>
+    </net>
+    <net code="43" name="Net-(R101-Pad2)">
+      <node ref="R101" pin="2"/>
+      <node ref="R115" pin="2"/>
+      <node ref="U101" pin="4"/>
+    </net>
+    <net code="44" name="/Measurement/FILTER0">
+      <node ref="R137" pin="1"/>
+      <node ref="U205" pin="13"/>
+    </net>
+    <net code="45" name="/Measurement/SPI0_MISO">
+      <node ref="R128" pin="2"/>
+      <node ref="U205" pin="20"/>
+    </net>
+    <net code="46" name="/Measurement/FILTER1">
+      <node ref="R139" pin="2"/>
+      <node ref="U205" pin="12"/>
+    </net>
+    <net code="47" name="Net-(J102-Pad25)">
       <node ref="U102" pin="11"/>
-      <node ref="RV113" pin="1"/>
       <node ref="J102" pin="25"/>
+      <node ref="RV113" pin="1"/>
     </net>
-    <net code="46" name="Net-(J102-Pad27)">
+    <net code="48" name="Net-(J102-Pad27)">
       <node ref="RV112" pin="1"/>
       <node ref="U102" pin="14"/>
       <node ref="J102" pin="27"/>
     </net>
-    <net code="47" name="Net-(J102-Pad29)">
-      <node ref="J102" pin="29"/>
+    <net code="49" name="Net-(R142-Pad2)">
+      <node ref="R142" pin="2"/>
+      <node ref="U102" pin="3"/>
+      <node ref="R143" pin="1"/>
+    </net>
+    <net code="50" name="Net-(D101-Pad1)">
+      <node ref="D101" pin="1"/>
+      <node ref="Q113" pin="3"/>
+    </net>
+    <net code="51" name="Net-(D102-Pad1)">
+      <node ref="D102" pin="1"/>
+      <node ref="Q114" pin="3"/>
+    </net>
+    <net code="52" name="/Measurement/OSR1">
+      <node ref="U205" pin="15"/>
+      <node ref="R143" pin="2"/>
+    </net>
+    <net code="53" name="/Measurement/OSR0">
+      <node ref="U205" pin="16"/>
+      <node ref="R141" pin="2"/>
+    </net>
+    <net code="54" name="Net-(J102-Pad13)">
+      <node ref="R129" pin="1"/>
+      <node ref="RV105" pin="1"/>
+      <node ref="J102" pin="13"/>
+    </net>
+    <net code="55" name="/Measurement/SPI1_MOSI">
+      <node ref="RV107" pin="1"/>
+      <node ref="U210" pin="7"/>
+      <node ref="U208" pin="4"/>
+      <node ref="R134" pin="1"/>
+    </net>
+    <net code="56" name="/Measurement/SPI1_CE1">
+      <node ref="RV109" pin="1"/>
+      <node ref="U208" pin="2"/>
+      <node ref="R144" pin="1"/>
+    </net>
+    <net code="57" name="/Measurement/Offset_LDAC">
+      <node ref="U208" pin="5"/>
+      <node ref="RV110" pin="1"/>
+      <node ref="R145" pin="1"/>
+    </net>
+    <net code="58" name="Net-(J102-Pad29)">
       <node ref="U102" pin="12"/>
       <node ref="RV111" pin="1"/>
+      <node ref="J102" pin="29"/>
     </net>
-    <net code="48" name="/Measurement/SPI0_CLK">
+    <net code="59" name="/Measurement/SPI0_CLK">
       <node ref="U205" pin="22"/>
-      <node ref="R129" pin="1"/>
       <node ref="RV101" pin="1"/>
-    </net>
-    <net code="49" name="/Measurement/SPI0_MOSI">
       <node ref="R130" pin="1"/>
-      <node ref="RV102" pin="1"/>
+    </net>
+    <net code="60" name="/Measurement/SPI0_MOSI">
       <node ref="U205" pin="21"/>
-    </net>
-    <net code="50" name="/Measurement/FILTER1">
-      <node ref="U205" pin="12"/>
-      <node ref="R138" pin="2"/>
-    </net>
-    <net code="51" name="/Measurement/FILTER0">
-      <node ref="R136" pin="1"/>
-      <node ref="U205" pin="13"/>
-    </net>
-    <net code="52" name="/Measurement/SPI0_MISO">
-      <node ref="U205" pin="20"/>
-      <node ref="R127" pin="2"/>
-    </net>
-    <net code="53" name="/Setpoint">
-      <node ref="R101" pin="1"/>
-    </net>
-    <net code="54" name="Net-(J102-Pad9)">
-      <node ref="R127" pin="1"/>
-      <node ref="RV103" pin="1"/>
-      <node ref="J102" pin="9"/>
-    </net>
-    <net code="55" name="/Measurement/SPI0_CE0">
-      <node ref="RV104" pin="1"/>
-      <node ref="U205" pin="23"/>
       <node ref="R131" pin="1"/>
+      <node ref="RV102" pin="1"/>
     </net>
-    <net code="56" name="/Measurement/SPI1_CLK">
+    <net code="61" name="/Measurement/SPI0_CE0">
+      <node ref="U205" pin="23"/>
+      <node ref="RV104" pin="1"/>
       <node ref="R132" pin="1"/>
-      <node ref="U208" pin="3"/>
+    </net>
+    <net code="62" name="/Measurement/SPI1_CLK">
       <node ref="RV106" pin="1"/>
+      <node ref="R133" pin="1"/>
       <node ref="U210" pin="6"/>
+      <node ref="U208" pin="3"/>
     </net>
-    <net code="57" name="Net-(Q102-Pad3)">
+    <net code="63" name="/Measurement/SPI1_CE0">
+      <node ref="R135" pin="1"/>
+      <node ref="RV108" pin="1"/>
+      <node ref="U210" pin="5"/>
+    </net>
+    <net code="64" name="Net-(Q102-Pad3)">
       <node ref="Q102" pin="3"/>
-      <node ref="R116" pin="1"/>
-    </net>
-    <net code="58" name="Net-(Q108-Pad3)">
-      <node ref="Q108" pin="3"/>
-      <node ref="R122" pin="1"/>
-    </net>
-    <net code="59" name="Net-(Q109-Pad3)">
-      <node ref="Q109" pin="3"/>
-      <node ref="R123" pin="1"/>
-    </net>
-    <net code="60" name="Net-(Q110-Pad3)">
-      <node ref="R124" pin="1"/>
-      <node ref="Q110" pin="3"/>
-    </net>
-    <net code="61" name="Net-(Q111-Pad3)">
-      <node ref="Q111" pin="3"/>
-      <node ref="R125" pin="1"/>
-    </net>
-    <net code="62" name="Net-(Q112-Pad3)">
-      <node ref="Q112" pin="3"/>
-      <node ref="R126" pin="1"/>
-    </net>
-    <net code="63" name="Net-(Q105-Pad3)">
-      <node ref="Q105" pin="3"/>
-      <node ref="R119" pin="1"/>
-    </net>
-    <net code="64" name="Net-(Q103-Pad3)">
-      <node ref="Q103" pin="3"/>
       <node ref="R117" pin="1"/>
     </net>
-    <net code="65" name="Net-(Q104-Pad3)">
+    <net code="65" name="Net-(Q103-Pad3)">
       <node ref="R118" pin="1"/>
+      <node ref="Q103" pin="3"/>
+    </net>
+    <net code="66" name="Net-(Q104-Pad3)">
       <node ref="Q104" pin="3"/>
+      <node ref="R119" pin="1"/>
     </net>
-    <net code="66" name="Net-(Q106-Pad3)">
-      <node ref="Q106" pin="3"/>
+    <net code="67" name="Net-(Q105-Pad3)">
       <node ref="R120" pin="1"/>
+      <node ref="Q105" pin="3"/>
     </net>
-    <net code="67" name="Net-(Q107-Pad3)">
+    <net code="68" name="Net-(Q106-Pad3)">
+      <node ref="Q106" pin="3"/>
       <node ref="R121" pin="1"/>
+    </net>
+    <net code="69" name="Net-(Q107-Pad3)">
+      <node ref="R122" pin="1"/>
       <node ref="Q107" pin="3"/>
     </net>
-    <net code="68" name="Net-(Q101-Pad3)">
-      <node ref="R115" pin="1"/>
+    <net code="70" name="Net-(Q110-Pad3)">
+      <node ref="Q110" pin="3"/>
+      <node ref="R125" pin="1"/>
+    </net>
+    <net code="71" name="Net-(Q108-Pad3)">
+      <node ref="R123" pin="1"/>
+      <node ref="Q108" pin="3"/>
+    </net>
+    <net code="72" name="Net-(Q109-Pad3)">
+      <node ref="Q109" pin="3"/>
+      <node ref="R124" pin="1"/>
+    </net>
+    <net code="73" name="Net-(Q111-Pad3)">
+      <node ref="Q111" pin="3"/>
+      <node ref="R126" pin="1"/>
+    </net>
+    <net code="74" name="Net-(Q112-Pad3)">
+      <node ref="Q112" pin="3"/>
+      <node ref="R127" pin="1"/>
+    </net>
+    <net code="75" name="Net-(Q101-Pad3)">
+      <node ref="R116" pin="1"/>
       <node ref="Q101" pin="3"/>
     </net>
-    <net code="69" name="Net-(J102-Pad21)">
-      <node ref="R143" pin="2"/>
-      <node ref="J102" pin="21"/>
-    </net>
-    <net code="70" name="Net-(J102-Pad23)">
-      <node ref="R144" pin="2"/>
-      <node ref="J102" pin="23"/>
-    </net>
-    <net code="71" name="Net-(J102-Pad19)">
-      <node ref="J102" pin="19"/>
-      <node ref="R134" pin="2"/>
-    </net>
-    <net code="72" name="Net-(J102-Pad11)">
-      <node ref="R131" pin="2"/>
-      <node ref="J102" pin="11"/>
-    </net>
-    <net code="73" name="Net-(J102-Pad15)">
-      <node ref="R132" pin="2"/>
-      <node ref="J102" pin="15"/>
-    </net>
-    <net code="74" name="Net-(J102-Pad17)">
-      <node ref="J102" pin="17"/>
-      <node ref="R133" pin="2"/>
-    </net>
-    <net code="75" name="Net-(R125-Pad2)">
-      <node ref="R125" pin="2"/>
-    </net>
-    <net code="76" name="Net-(J102-Pad7)">
-      <node ref="R130" pin="2"/>
-      <node ref="J102" pin="7"/>
-    </net>
-    <net code="77" name="Net-(J102-Pad5)">
-      <node ref="J102" pin="5"/>
-      <node ref="R129" pin="2"/>
-    </net>
-    <net code="78" name="Net-(U102-Pad9)">
-      <node ref="U102" pin="9"/>
-    </net>
-    <net code="79" name="Net-(F101-Pad2)">
-      <node ref="J102" pin="1"/>
+    <net code="76" name="Net-(F101-Pad2)">
       <node ref="J102" pin="3"/>
+      <node ref="J102" pin="1"/>
       <node ref="F101" pin="2"/>
     </net>
-    <net code="80" name="Net-(R213-Pad1)">
-      <node ref="R217" pin="1"/>
-      <node ref="R213" pin="1"/>
-      <node ref="U205" pin="3"/>
+    <net code="77" name="Net-(U102-Pad9)">
+      <node ref="U102" pin="9"/>
     </net>
-    <net code="81" name="Net-(R214-Pad2)">
-      <node ref="R215" pin="1"/>
-      <node ref="R214" pin="2"/>
+    <net code="78" name="Net-(R231-Pad2)">
+      <node ref="R232" pin="1"/>
+      <node ref="R231" pin="2"/>
+      <node ref="U209" pin="2"/>
+    </net>
+    <net code="79" name="Net-(R208-Pad2)">
+      <node ref="R212" pin="1"/>
+      <node ref="R209" pin="1"/>
+      <node ref="R208" pin="2"/>
+    </net>
+    <net code="80" name="Net-(R203-Pad2)">
+      <node ref="U202" pin="6"/>
+      <node ref="R203" pin="2"/>
+      <node ref="U202" pin="2"/>
+    </net>
+    <net code="81" name="Net-(R216-Pad2)">
+      <node ref="R216" pin="2"/>
+      <node ref="R217" pin="1"/>
     </net>
     <net code="82" name="Net-(R203-Pad1)">
       <node ref="R203" pin="1"/>
-      <node ref="R204" pin="2"/>
-    </net>
-    <net code="83" name="Net-(R212-Pad2)">
-      <node ref="U203" pin="2"/>
-      <node ref="R212" pin="2"/>
-      <node ref="R216" pin="1"/>
-    </net>
-    <net code="84" name="Net-(R224-Pad1)">
-      <node ref="U207" pin="7"/>
-      <node ref="R225" pin="2"/>
-      <node ref="R224" pin="1"/>
-    </net>
-    <net code="85" name="Net-(R205-Pad1)">
-      <node ref="U201" pin="2"/>
-      <node ref="R205" pin="1"/>
-      <node ref="U201" pin="6"/>
-    </net>
-    <net code="86" name="Net-(R206-Pad2)">
-      <node ref="R207" pin="1"/>
       <node ref="R206" pin="2"/>
-      <node ref="R210" pin="1"/>
     </net>
-    <net code="87" name="Net-(R226-Pad2)">
-      <node ref="R227" pin="1"/>
-      <node ref="R226" pin="2"/>
-      <node ref="U209" pin="2"/>
-    </net>
-    <net code="88" name="Net-(R203-Pad2)">
-      <node ref="U202" pin="2"/>
-      <node ref="U202" pin="6"/>
-      <node ref="R203" pin="2"/>
-    </net>
-    <net code="89" name="Net-(C207-Pad1)">
-      <node ref="C207" pin="1"/>
-      <node ref="U205" pin="25"/>
-    </net>
-    <net code="90" name="Net-(C209-Pad1)">
-      <node ref="C209" pin="1"/>
-      <node ref="U205" pin="2"/>
-    </net>
-    <net code="91" name="/Measurement/Offset_DAC">
-      <node ref="U202" pin="3"/>
-      <node ref="C211" pin="1"/>
-      <node ref="U201" pin="3"/>
-      <node ref="U208" pin="8"/>
-    </net>
-    <net code="92" name="Net-(R201-Pad2)">
-      <node ref="R201" pin="2"/>
-      <node ref="U205" pin="29"/>
-    </net>
-    <net code="93" name="Net-(R202-Pad2)">
-      <node ref="R202" pin="2"/>
-      <node ref="U205" pin="28"/>
-    </net>
-    <net code="94" name="Net-(R221-Pad1)">
-      <node ref="U205" pin="17"/>
-      <node ref="R221" pin="1"/>
-    </net>
-    <net code="95" name="Net-(R219-Pad2)">
-      <node ref="R219" pin="2"/>
-      <node ref="U205" pin="24"/>
-    </net>
-    <net code="96" name="Net-(R220-Pad1)">
-      <node ref="R220" pin="1"/>
-      <node ref="U205" pin="14"/>
-    </net>
-    <net code="97" name="Net-(C208-Pad1)">
-      <node ref="C208" pin="1"/>
-      <node ref="U205" pin="11"/>
-    </net>
-    <net code="98" name="Net-(R222-Pad1)">
-      <node ref="R222" pin="1"/>
-      <node ref="U205" pin="30"/>
-    </net>
-    <net code="99" name="/Measurement/Vref">
-      <node ref="C214" pin="1"/>
-      <node ref="R213" pin="2"/>
-      <node ref="U211" pin="7"/>
-      <node ref="C217" pin="1"/>
-      <node ref="U208" pin="6"/>
+    <net code="83" name="/Measurement/Vref">
       <node ref="U205" pin="9"/>
-      <node ref="U211" pin="6"/>
       <node ref="C201" pin="2"/>
+      <node ref="R215" pin="2"/>
       <node ref="U210" pin="2"/>
+      <node ref="U208" pin="6"/>
+      <node ref="U211" pin="7"/>
+      <node ref="U211" pin="6"/>
+      <node ref="C217" pin="1"/>
+      <node ref="C214" pin="1"/>
     </net>
-    <net code="100" name="Net-(R218-Pad1)">
-      <node ref="R218" pin="1"/>
+    <net code="84" name="Net-(R215-Pad1)">
+      <node ref="R215" pin="1"/>
+      <node ref="U205" pin="3"/>
+      <node ref="R219" pin="1"/>
+    </net>
+    <net code="85" name="Net-(R220-Pad1)">
+      <node ref="R220" pin="1"/>
       <node ref="U205" pin="8"/>
     </net>
-    <net code="101" name="Net-(R223-Pad1)">
-      <node ref="R223" pin="1"/>
-      <node ref="U205" pin="7"/>
+    <net code="86" name="Net-(C209-Pad1)">
+      <node ref="U205" pin="2"/>
+      <node ref="C209" pin="1"/>
     </net>
-    <net code="102" name="/Measurement/VoltageSense">
-      <node ref="U207" pin="9"/>
-      <node ref="R212" pin="1"/>
-      <node ref="U203" pin="6"/>
+    <net code="87" name="Net-(C208-Pad1)">
+      <node ref="U205" pin="11"/>
+      <node ref="C208" pin="1"/>
     </net>
-    <net code="103" name="Net-(D202-Pad1)">
-      <node ref="R204" pin="1"/>
-      <node ref="U204" pin="3"/>
-      <node ref="D202" pin="1"/>
-      <node ref="R208" pin="1"/>
-    </net>
-    <net code="104" name="Net-(D203-Pad1)">
-      <node ref="R211" pin="2"/>
-      <node ref="D203" pin="1"/>
-      <node ref="U204" pin="2"/>
-      <node ref="R215" pin="2"/>
-    </net>
-    <net code="105" name="Net-(D201-Pad1)">
-      <node ref="U203" pin="3"/>
-      <node ref="D201" pin="1"/>
-      <node ref="R205" pin="2"/>
-      <node ref="R207" pin="2"/>
-    </net>
-    <net code="106" name="Net-(C216-Pad1)">
+    <net code="88" name="Net-(C216-Pad1)">
       <node ref="U211" pin="1"/>
       <node ref="C216" pin="1"/>
     </net>
-    <net code="107" name="+3.3VA">
-      <node ref="C213" pin="1"/>
-      <node ref="U210" pin="1"/>
+    <net code="89" name="Net-(R205-Pad2)">
+      <node ref="U205" pin="28"/>
+      <node ref="R205" pin="2"/>
     </net>
-    <net code="108" name="Net-(R219-Pad1)">
-      <node ref="R219" pin="1"/>
+    <net code="90" name="Net-(R223-Pad2)">
+      <node ref="R223" pin="2"/>
+      <node ref="U205" pin="17"/>
+    </net>
+    <net code="91" name="Net-(C207-Pad1)">
+      <node ref="C207" pin="1"/>
+      <node ref="U205" pin="25"/>
+    </net>
+    <net code="92" name="Net-(R221-Pad2)">
+      <node ref="R221" pin="2"/>
+      <node ref="U205" pin="24"/>
+    </net>
+    <net code="93" name="Net-(R222-Pad2)">
+      <node ref="R222" pin="2"/>
+      <node ref="U205" pin="14"/>
+    </net>
+    <net code="94" name="Net-(R224-Pad2)">
+      <node ref="U205" pin="30"/>
+      <node ref="R224" pin="2"/>
+    </net>
+    <net code="95" name="Net-(R225-Pad1)">
+      <node ref="U205" pin="7"/>
+      <node ref="R225" pin="1"/>
+    </net>
+    <net code="96" name="Net-(R207-Pad1)">
+      <node ref="R207" pin="1"/>
+      <node ref="U201" pin="6"/>
+      <node ref="U201" pin="2"/>
+    </net>
+    <net code="97" name="Net-(R214-Pad2)">
+      <node ref="R218" pin="1"/>
+      <node ref="U203" pin="2"/>
+      <node ref="R214" pin="2"/>
+    </net>
+    <net code="98" name="Net-(R229-Pad1)">
+      <node ref="U207" pin="7"/>
+      <node ref="R230" pin="2"/>
+      <node ref="R229" pin="1"/>
+    </net>
+    <net code="99" name="Net-(D202-Pad1)">
+      <node ref="R206" pin="1"/>
+      <node ref="R210" pin="1"/>
+      <node ref="U204" pin="3"/>
+      <node ref="D202" pin="1"/>
+    </net>
+    <net code="100" name="Net-(R201-Pad2)">
+      <node ref="R201" pin="2"/>
+      <node ref="R204" pin="2"/>
+    </net>
+    <net code="101" name="Net-(R204-Pad1)">
+      <node ref="U205" pin="29"/>
+      <node ref="R204" pin="1"/>
+    </net>
+    <net code="102" name="Net-(D203-Pad1)">
+      <node ref="D203" pin="1"/>
+      <node ref="R213" pin="2"/>
+      <node ref="R217" pin="2"/>
+      <node ref="U204" pin="2"/>
+    </net>
+    <net code="103" name="Net-(R224-Pad1)">
+      <node ref="R228" pin="2"/>
+      <node ref="R224" pin="1"/>
+    </net>
+    <net code="104" name="Net-(R223-Pad1)">
+      <node ref="R223" pin="1"/>
+      <node ref="R227" pin="2"/>
+    </net>
+    <net code="105" name="Net-(R222-Pad1)">
+      <node ref="R226" pin="2"/>
+      <node ref="R222" pin="1"/>
+    </net>
+    <net code="106" name="Net-(R202-Pad1)">
+      <node ref="R202" pin="1"/>
+      <node ref="R205" pin="1"/>
+    </net>
+    <net code="107" name="Net-(C205-Pad1)">
+      <node ref="U205" pin="1"/>
+      <node ref="C205" pin="1"/>
+    </net>
+    <net code="108" name="Net-(D201-Pad1)">
+      <node ref="R209" pin="2"/>
+      <node ref="R207" pin="2"/>
+      <node ref="D201" pin="1"/>
+      <node ref="U203" pin="3"/>
+    </net>
+    <net code="109" name="/Measurement/Offset_DAC">
+      <node ref="C211" pin="1"/>
+      <node ref="U202" pin="3"/>
+      <node ref="U201" pin="3"/>
+      <node ref="U208" pin="8"/>
+    </net>
+    <net code="110" name="Net-(R221-Pad1)">
       <node ref="U206" pin="3"/>
+      <node ref="R221" pin="1"/>
     </net>
-    <net code="109" name="Net-(U206-Pad1)">
+    <net code="111" name="Net-(U206-Pad1)">
       <node ref="U206" pin="1"/>
     </net>
-    <net code="110" name="Net-(U211-Pad5)">
+    <net code="112" name="Net-(U211-Pad5)">
       <node ref="U211" pin="5"/>
     </net>
-    <net code="111" name="Net-(U211-Pad8)">
+    <net code="113" name="Net-(U211-Pad8)">
       <node ref="U211" pin="8"/>
     </net>
-    <net code="112" name="/Measurement/ADC_INPUT">
-      <node ref="U205" pin="4"/>
-      <node ref="U207" pin="3"/>
+    <net code="114" name="/Measurement/VoltageSense">
+      <node ref="U203" pin="6"/>
+      <node ref="R214" pin="1"/>
+      <node ref="U207" pin="9"/>
     </net>
-    <net code="113" name="/Measurement/DAC8560">
+    <net code="115" name="/Measurement/DAC8560">
       <node ref="U210" pin="3"/>
+      <node ref="U210" pin="4"/>
       <node ref="U207" pin="8"/>
       <node ref="U209" pin="3"/>
-      <node ref="U210" pin="4"/>
     </net>
-    <net code="114" name="Net-(U207-Pad6)">
+    <net code="116" name="Net-(U207-Pad6)">
       <node ref="U207" pin="6"/>
+    </net>
+    <net code="117" name="/Measurement/ADC_INPUT">
+      <node ref="U205" pin="4"/>
+      <node ref="U207" pin="3"/>
     </net>
   </nets>
 </export>
